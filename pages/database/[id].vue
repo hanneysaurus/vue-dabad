@@ -118,6 +118,7 @@ definePageMeta({
     margin: 40px 0;
 
     .overview {
+      width: 600px;
       .title {
         font-weight: bold;
         font-size: 30px;
