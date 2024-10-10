@@ -3,7 +3,7 @@
   <div class="search-area">
     <input
         type="text"
-        placeholder="Search..."
+        placeholder="search..."
         @input="updateSearchQuery"
     />
   </div>
@@ -52,7 +52,7 @@ const updateSearchQuery = (event) => {
     height: 40px;
     font-family: "Courier New", serif;
     font-size: 16px;
-    
+
   }
 }
 
