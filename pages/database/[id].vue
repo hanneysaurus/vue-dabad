@@ -15,9 +15,6 @@
             <input type="checkbox" :checked="media.Watched === 'YES'" disabled>
           </div>
         </div>
-      </div>
-
-      <div class="cast-crew">
         <p class="director"><b>directed by</b> {{ media.Director }}</p>
         <p class="writer"><u>written by</u> {{ media.Director }}</p>
         <div class="genres">
@@ -29,40 +26,38 @@
         <p class="music">{{ media.Music }}</p>
         <p class="costumedesign">{{ media.CostumeDesign }}</p>
       </div>
-
-      <div class="franchise-info">
-        <div v-if="media.Franchise === 'YES'" class="franchise-completion">
-          <p>This {{ media.Type }} is part of a <b>franchise</b>.</p>
-          <p v-if="media.FranchiseComplete === 'YES'">This franchise is <u style="color: #03c03c">complete</u> in
-            Hanney's library.&#128522;</p>
-          <p v-if="media.FranchiseComplete === 'NO'">This franchise is <u>incomplete</u> in Hanney's
-            library.&#128551;<br/> It
-            is missing:</p>
-          <ul v-if="missingMedia" style="margin: 0">
-            <li v-for="m in missingMedia"><i>{{ m }}</i></li>
-          </ul>
-        </div>
-        <div class="franchise-links">
-          <div v-if="prequels" class="prequels">
-            <p>follows</p>
-            <div v-for="p in prequels">
-              <MediaListItem :media="p"/>
-            </div>
-          </div>
-          <div v-if="sequels" class="sequels">
-            <p>succeeded by</p>
-            <div v-for="s in sequels">
-              <MediaListItem :media="s"/>
-            </div>
-          </div>
-        </div>
+      <div class="poster-container">
+        <img class="poster" :alt="`${getImageID(media.Title)}`" :src="`/images/${getImageID(media.Title)}`"/>
       </div>
     </div>
 
-    <div class="poster-container">
-      <img class="poster" :alt="`${getImageID(media.Title)}`" :src="`/images/${getImageID(media.Title)}`"/>
+    <div class="franchise-info">
+      <div v-if="prequels || sequels" class="franchise-links">
+        <div v-if="prequels" class="prequels">
+          <p>follows</p>
+          <div v-for="p in prequels">
+            <MediaListItem :media="p"/>
+          </div>
+        </div>
+        <div v-if="sequels" class="sequels">
+          <p>succeeded by</p>
+          <div v-for="s in sequels">
+            <MediaListItem :media="s"/>
+          </div>
+        </div>
+      </div>
+      <div v-if="media.Franchise === 'YES'" class="franchise-completion">
+        <p>This {{ media.Type }} is part of a <b>franchise</b>.</p>
+        <p v-if="media.FranchiseComplete === 'YES'">This franchise is <u style="color: #03c03c">complete</u> in
+          Hanney's library.&#128522;</p>
+        <p v-if="media.FranchiseComplete === 'NO'">This franchise is <u style="color: orange">incomplete</u> in Hanney's
+          library.&#128551;<br/> It
+          is missing:</p>
+        <ul v-if="missingMedia" style="margin: 0">
+          <li v-for="m in missingMedia"><i>{{ m }}</i></li>
+        </ul>
+      </div>
     </div>
-
   </div>
 </template>
 
@@ -103,18 +98,23 @@ definePageMeta({
 
 </script>
 
+
+
+
 <style lang="scss" scoped>
 
 .detail-page {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
   background: white;
   outline: solid darkblue 10px;
   outline-offset: 10px;
   padding: 40px;
 
   .details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     margin: 40px 0;
 
     .overview {
@@ -127,74 +127,74 @@ definePageMeta({
       .type-year {
         margin: 0 0 20px 0;
       }
-    }
 
-    .medium-runtime {
-      display: flex;
-      flex-direction: row;
-      justify-content: start;
-      margin: 0 0 20px 0;
-
-      .medium {
-        width: 30px;
-        height: 30px;
-        align-self: center;
-        margin: 0 10px 0 0;
-      }
-
-      .watched {
+      .medium-runtime {
         display: flex;
         flex-direction: row;
-        margin: 0 0 0 60px;
-      }
-    }
+        justify-content: start;
+        margin: 0 0 20px 0;
 
-    .genres {
-      display: flex;
-      flex-direction: row;
-    }
+        .medium {
+          width: 30px;
+          height: 30px;
+          align-self: center;
+          margin: 0 10px 0 0;
+        }
 
-    .franchise-info {
-      margin: 100px 0 0 0;
-
-      .franchise-completion {
-        p {
-          margin: 0;
+        .watched {
+          display: flex;
+          flex-direction: row;
+          margin: 0 0 0 60px;
         }
       }
 
-      .franchise-links {
+      .genres {
         display: flex;
         flex-direction: row;
-
-        .prequels,
-        .sequels {
-          margin: 0 20px 0 0;
-
-          p {
-            font-size: 18px;
-            font-weight: bold;
-            margin: 20px 0 0 5px;
-          }
-        }
-
       }
+
     }
-  }
 
-  .poster-container {
-    width: 400px;
-    height: auto;
-    overflow: hidden;
-    align-content: center;
-
-    .poster {
-      width: inherit;
+    .poster-container {
+      width: 400px;
+      height: auto;
       overflow: hidden;
-      outline: solid white 2px;
-      outline-offset: -10px;
+      align-content: center;
+
+      .poster {
+        width: inherit;
+        overflow: hidden;
+        outline: solid white 2px;
+        outline-offset: -10px;
+      }
     }
   }
 
+  .franchise-info {
+    display: flex;
+    justify-content: space-around;
+
+    .franchise-completion {
+      p {
+        margin: 0;
+      }
+    }
+
+    .franchise-links {
+      display: flex;
+      flex-direction: row;
+
+      .prequels,
+      .sequels {
+        margin: 0 20px 0 0;
+
+        p {
+          font-size: 18px;
+          font-weight: bold;
+          margin: 0 0 0 5px;
+        }
+      }
+    }
+  }
 }
 </style>
