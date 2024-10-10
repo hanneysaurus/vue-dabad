@@ -13,7 +13,7 @@ import {getImageID} from "assets/utils.js";
 const props = defineProps({
       media: Object,
     }
-)
+);
 
 </script>
 
