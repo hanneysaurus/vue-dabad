@@ -1,8 +1,9 @@
 <template>
   <h1>Database</h1>
-  <div class="search">
+  <div class="search-area">
     <input
         type="text"
+        placeholder="Search..."
         @input="updateSearchQuery"
     />
   </div>
@@ -42,6 +43,18 @@ const updateSearchQuery = (event) => {
 </script>
 
 <style lang="scss" scoped>
+
+.search-area {
+  margin: 0 0 20px 0;
+
+  input {
+    width: 300px;
+    height: 40px;
+    font-family: "Courier New", serif;
+    font-size: 16px;
+    
+  }
+}
 
 .database {
   display: grid;
