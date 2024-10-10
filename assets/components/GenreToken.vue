@@ -35,7 +35,7 @@ export default {
         {genre: "SciFi", style: ['lime', 'black']},
         {genre: "Seasonal", style: ['green', 'white']},
         {genre: "Sitcom", style: ['palegreen', 'black']},
-        {genre: "Sport", style: ['lightskyblue', 'black']},
+        {genre: "Sports", style: ['lightskyblue', 'black']},
         {genre: "Thriller", style: ['navy', 'white']},
         {genre: "War", style: ['crimson', 'black']},
         {genre: "Western", style: ['cornsilk', 'black']},
