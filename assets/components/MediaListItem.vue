@@ -1,24 +1,20 @@
 <template>
-    <NuxtLink :to="`/database/${media.ID}`">
-      <div class="medialistitem">
-        <img :alt="`${media.Title}`" :src="`/images/${getImageID(media.Title)}`" class="preview"/>
-        <p class="text">{{ media.Title }}</p>
-      </div>
-    </NuxtLink>
+  <NuxtLink :to="`/database/${props.media.ID}`">
+    <div class="medialistitem">
+      <img :alt="`${props.media.Title}`" :src="`/images/${getImageID(props.media.Title)}`" class="preview"/>
+      <p class="text">{{ props.media.Title }}</p>
+    </div>
+  </NuxtLink>
 </template>
 
-<script>
+<script setup>
 import {getImageID} from "assets/utils.js";
 
-export default {
-  methods: {getImageID},
-  props: {
-    media: {
-      type: Object,
-      required: true,
+const props = defineProps({
+      media: Object,
     }
-  }
-}
+)
+
 </script>
 
 <style lang="scss" scoped>
@@ -35,6 +31,14 @@ a {
   outline: black solid 1px;
   overflow: hidden;
   width: 200px;
+  height: 80px;
+
+  &:hover {
+    background: #ebab47;
+    .text {
+      color: white;
+    }
+  }
 
   .preview {
     width: 60px;
