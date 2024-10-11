@@ -16,7 +16,7 @@
           </div>
         </div>
         <p class="director"><b>directed by</b> {{ media.Director }}</p>
-        <p class="writer"><u>written by</u> {{ media.Director }}</p>
+        <p class="writer"><u>written by</u> {{ media.Writer }}</p>
         <div class="summary">
           <p>{{ media.Summary }}</p>
         </div>
