@@ -17,14 +17,16 @@
         </div>
         <p class="director"><b>directed by</b> {{ media.Director }}</p>
         <p class="writer"><u>written by</u> {{ media.Director }}</p>
-        <div class="genres">
-          <GenreToken v-for="g in genres" :genre="g"/>
+        <div class="summary">
+          <p>{{ media.Summary }}</p>
         </div>
-        <p class="summary">{{ media.Summary }}</p>
         <p class="cast">{{ media.Cast }}</p>
         <p class="cinematographer">{{ media.Cinematography }}</p>
         <p class="music">{{ media.Music }}</p>
         <p class="costumedesign">{{ media.CostumeDesign }}</p>
+        <div class="genres">
+          <GenreToken v-for="g in genres" :genre="g"/>
+        </div>
       </div>
       <div class="poster-container">
         <img class="poster" :alt="`${getImageID(media.Title)}`" :src="`/images/${getImageID(media.Title)}`"/>
@@ -146,6 +148,16 @@ definePageMeta({
           display: flex;
           flex-direction: row;
           margin: 0 0 0 60px;
+        }
+      }
+
+      .summary {
+        height: 200px;
+        padding: 5px;
+        outline: black solid 2px;
+        outline-offset: 5px;
+        p {
+          margin: 0;
         }
       }
 
