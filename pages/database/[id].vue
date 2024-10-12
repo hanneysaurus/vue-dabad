@@ -152,10 +152,15 @@ definePageMeta({
       }
 
       .summary {
-        height: 200px;
+        height: 150px;
         padding: 5px;
         outline: black solid 2px;
         outline-offset: 5px;
+
+        overflow-y: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+
         p {
           margin: 0;
         }
