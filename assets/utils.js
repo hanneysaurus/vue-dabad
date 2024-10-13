@@ -8,3 +8,11 @@ export function getImageID(title) {
     const image_id = title_cleaned.toLowerCase().replace(/\s+/g, '_');
     return image_id + ".jpg";
 }
+
+export function getGenres() {
+    const genres = ["Action", "Adventure", "Animation", "Biography", "Comedy", "Coming-of-Age", "Crime",
+        "Documentary", "Drama", "Epic", "Fantasy", "History", "Horror", "Musical", "Mystery", "Romance",
+        "SciFi", "Seasonal", "Sitcom", "Sports", "Thriller", "War", "Western"];
+
+    return genres;
+}

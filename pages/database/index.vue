@@ -15,13 +15,27 @@
       <p>Advanced Search</p>
     </div>
     <div class="advanced-search" v-if="showAdvancedSearch">
-      <img src="/assets/icons/arrow_down.png" alt="advanced search" @click="toggleAdvancedSearch"/>
-      <div class="advanced-search-filters">
+      <div class="open-advanced-search">
+        <img src="/assets/icons/arrow_down.png" alt="advanced search" @click="toggleAdvancedSearch"/>
         <p><b>Advanced Search</b></p>
-        <select>genre</select>
-        <select>type</select>
-        <input/>runtime_from
-        <input/>runtime_to
+      </div>
+      <div class="advanced-search-filters">
+        <p>Genre: </p>
+        <select name="genres" id="genres">
+          <option></option>
+          <option v-for="g in getGenres()" :value="{g}">{{g}}</option>
+        </select>
+        <p>Type: </p>
+        <select>
+          <option></option>
+          <option>DVD</option>
+          <option>BluRay</option>
+        </select>
+        <div class="runtime-search">
+          <p>Runtime: </p>
+          <input type="text" placeholder="from"/>
+          <input type="text" placeholder="to"/>
+        </div>
         <input type="checkbox">watched
         <input type="checkbox">franchise
         <input/>cast and crew
@@ -38,6 +52,7 @@
 <script setup>
 import database from '/content/database.json';
 import MediaCard from "assets/components/MediaCard.vue";
+import {getGenres} from "assets/utils.js";
 
 definePageMeta({
   layout: 'database'
@@ -112,7 +127,8 @@ const getRandomMedia = () => {
 }
 
 .advanced-search-area {
-  margin: 10px 0;
+  margin: 10px 10px 10px 0;
+  background: #ffffffaa;
 
   img {
     width: 15px;
@@ -121,7 +137,7 @@ const getRandomMedia = () => {
   }
 
   p {
-    margin: 0;
+    margin: 0 0 0 5px;
   }
 
   .open-advanced-search {
@@ -134,7 +150,14 @@ const getRandomMedia = () => {
     flex-direction: column;
 
     .advanced-search-filters {
-      margin: 5px;
+      display: flex;
+      flex-direction: row;
+
+      .runtime-search{
+        display: flex;
+        flex-direction: row;
+      }
+
     }
   }
 
