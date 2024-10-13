@@ -2,6 +2,7 @@
   <h1>Database</h1>
   <div class="search-area">
     <input
+        id="search_input"
         type="text"
         placeholder="search..."
         @input="updateSearchQuery"
@@ -13,10 +14,17 @@
       <img src="/assets/icons/arrow_right.png" alt="open advanced search"/>
       <p>Advanced Search</p>
     </div>
-    <div class="advanced-search" v-if="showAdvancedSearch" @click="toggleAdvancedSearch">
-      <img src="/assets/icons/arrow_down.png" alt="advanced search"/>
+    <div class="advanced-search" v-if="showAdvancedSearch">
+      <img src="/assets/icons/arrow_down.png" alt="advanced search" @click="toggleAdvancedSearch"/>
       <div class="advanced-search-filters">
-        <p>Advanced Search</p>
+        <p><b>Advanced Search</b></p>
+        <select>genre</select>
+        <select>type</select>
+        <input/>runtime_from
+        <input/>runtime_to
+        <input type="checkbox">watched
+        <input type="checkbox">franchise
+        <input/>cast and crew
       </div>
     </div>
   </div>
@@ -38,21 +46,17 @@ definePageMeta({
 const data = database;
 const searchQuery = ref();
 
-const filteredData = computed({
-  get() {
-    if (!searchQuery.value) {
-      return data;
-    }
-    return data.filter(media => {
-      const searchable = media.Title.toString().toLowerCase();
-      const query = searchQuery.value.toString().toLowerCase();
-      return searchable.includes(query);
-    });
-  },
-  set(newFilteredData) {
-    filteredData.value = newFilteredData;
+const filteredData = computed(() => {
+  if (!searchQuery.value) {
+    return data;
   }
+  return data.filter(media => {
+    const searchable = media.Title.toString().toLowerCase();
+    const query = searchQuery.value.toString().toLowerCase();
+    return searchable.includes(query);
+  });
 });
+
 const updateSearchQuery = (event) => {
   searchQuery.value = event.target.value;
 };
@@ -63,10 +67,9 @@ const toggleAdvancedSearch = () => {
 }
 
 const getRandomMedia = () => {
-  console.log("getting random media");
   const randIndex = Math.floor(Math.random() * data.length);
-  filteredData.value = data[randIndex];
-  console.log(filteredData.value);
+  const randomID = data[randIndex].ID;
+  navigateTo('database/' + randomID);
 }
 
 
@@ -77,7 +80,8 @@ const getRandomMedia = () => {
 .search-area {
   display: flex;
   flex-direction: row;
-  margin: 0 0 20px 0;
+  justify-content: space-between;
+  margin: 0 5px 20px 0;
   height: 40px;
 
   input {
@@ -95,8 +99,15 @@ const getRandomMedia = () => {
     font-size: inherit;
     color: grey;
     background: white;
-    border: #ebab47 dotted 7px;
+    cursor: pointer;
+    border: 3px solid dimgrey;
+    border-bottom-left-radius: 10px;
     border-top-right-radius: 10px;
+
+    &:hover {
+      background: gray;
+      color: white;
+    }
   }
 }
 
@@ -106,6 +117,7 @@ const getRandomMedia = () => {
   img {
     width: 15px;
     height: 15px;
+    cursor: pointer;
   }
 
   p {
