@@ -3,7 +3,7 @@
     "ID": "1917_2019",
     "Type": "Movie",
     "Medium": "BluRay",
-    "Title": "1917",
+    "Title": 1917,
     "Year": 2019,
     "Director": "Sam Mendes",
     "Watched": "YES",
@@ -15,12 +15,11 @@
     "Runtime": 119,
     "Genre": "History, War, Drama",
     "Summary": "One of the best war films I've seen. Makes you feel like you are in the trenches with gorgeous George MacKay. Also the bluray is signed by Sam Mendes \\uD83E\\uDDE1",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Sam Mendes, Krysty Wilson-Cairns",
+    "Music": "Thomas Newman",
+    "Cinematography": "Roger Deakins",
+    "CostumeDesign": "David Crossman, Jaqueline Durran",
+    "Cast": "Dean-Charles Chapman, George MacKay, Colin Firth, Andrew Scott, Mark Strong, Benedict Cumberbatch, Richard Madden"
   },
   {
     "ID": "A_Beautiful_Mind_2001",
@@ -38,12 +37,11 @@
     "Runtime": 130,
     "Genre": "Drama, Biography, Mystery",
     "Summary": "Won a bunch of Oscars and is about maths I think.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Akiva Goldsman, Sylvia Nasar",
+    "Music": "James Horner",
+    "Cinematography": "Roger Deakins",
+    "CostumeDesign": "Janet Hirshenson, Jane Jenkins",
+    "Cast": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer, Paul Bettany, Judd Hirsch,"
   },
   {
     "ID": "A_Girl_Walks_Home_Alone_At_Night_2014",
@@ -61,12 +59,11 @@
     "Runtime": 100,
     "Genre": "Romance, Drama, Horror",
     "Summary": "Made by a Persian and mentioned by Cate Blanchett in an interview for Ocean's Eight as being great. Also Horror-Romance is a fun combination.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Ana Lily Amirpour",
+    "Music": "Bei Ru",
+    "Cinematography": "Lyle Vincent",
+    "CostumeDesign": "Natalie O'Brien",
+    "Cast": "Sheila Vand, Arash Marandi, Marshall Manesh"
   },
   {
     "ID": "A_Quiet_Place_2018",
@@ -84,12 +81,11 @@
     "Runtime": 87,
     "Genre": "Horror, SciFi, Action",
     "Summary": "John Krasinski's directorial debut with an excellent performance by Emily Blunt which won her well-deserved SAG Award. This movie is an incredible scary movie that completely teleports you into a dystopian world where any sound can kill you. So not great for Hanney.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Bryan Woods, Scoot Beck, John Krasinski",
+    "Music": "Marco Beltrami",
+    "Cinematography": "Charlotte Bruus Christensen",
+    "CostumeDesign": "Kasia Walicka Maimone",
+    "Cast": "Emily Blunt, John Krasinski, Millicent Simmonds, Noah Jupe"
   },
   {
     "ID": "A_Simple_Favor_2018",
@@ -107,12 +103,11 @@
     "Runtime": 112,
     "Genre": "Mystery, Crime, Drama",
     "Summary": "You don't quite know where this movie is heading but its mystery, Anna Kendrick and Blake Lively's unlikely chemistry and Henry Golding make this a fun watch and I'm curious what's gonna happen in part 2.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Darcey Bell, Jessica Sharzer",
+    "Music": "Theodore Shapiro",
+    "Cinematography": "John Schwartzman",
+    "CostumeDesign": "Renee Ehrlich Kalfus",
+    "Cast": "Anna Kendrick , Blake Lively, Henry Golding, Linda Cardellini, Jean Smart"
   },
   {
     "ID": "Aladdin_2019",
@@ -130,12 +125,11 @@
     "Runtime": 128,
     "Genre": "Fantasy, Drama, Romance",
     "Summary": "Speechless is the central piece of this movie. The epicness of Naomi Scott's voice and Paul & Pasek's genius makes this song unforgettable. Will Smith is blue (as always) and Aladdin is hot (as always).",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "John August, Guy Ritchie",
+    "Music": "Alan Menken",
+    "Cinematography": "Alan Stewart",
+    "CostumeDesign": "Michael Wilkinson",
+    "Cast": "Naomi Scott, Mena Massoud, Will Smith"
   },
   {
     "ID": "Aladin_1404",
@@ -157,7 +151,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -176,11 +169,10 @@
     "Runtime": 30,
     "Genre": "Sitcom, Comedy, Fantasy",
     "Summary": "I watched one episode and didn't like it. I'm sure it had it's time and was funny at some point but it's just not my cup of tea.",
-    "Writer": "",
+    "Writer": "Various Writers",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -199,11 +191,10 @@
     "Runtime": 115,
     "Genre": "SciFi, Action, Fantasy",
     "Summary": "Oh Allegiant. What a crazy downfall of what otherwise seemed to be a promising setup for a good teenage science fiction franchise. Allegiant is a waste of time and one of the regrets in this collection, but it has to be in there it completes the franchise.",
-    "Writer": "",
+    "Writer": "Noah Oppenheim, Adam Cooper, Bill Collage",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -222,11 +213,10 @@
     "Runtime": 138,
     "Genre": "Thriller, Drama, Mystery",
     "Summary": "I am surprised that I don't watch this movie more often and I always forget that Ewan McGregor is in it. It's a great scavenger hunt throughout beautiful Rome and gets you on the edge of your seat every time.",
-    "Writer": "",
+    "Writer": "David Koepp, Akiva Goldsman, Dan Brown",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -245,11 +235,10 @@
     "Runtime": 115,
     "Genre": "SciFi, Action, Drama",
     "Summary": "One of the first Netflix productions released on Netflix I remember seeing. A great film with women at the center and beautiful VFX transporting you and leaving you in awe. Of course it's Alex Garland's genius.",
-    "Writer": "",
+    "Writer": "Alex Garland, Jeff VanderMeer",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -268,11 +257,10 @@
     "Runtime": 137,
     "Genre": "SciFi, Adventure, Drama",
     "Summary": "One of the good DC films in the era of Wonder Woman. The VFX look super cool with the hair underwater. Could be shorter though.",
-    "Writer": "",
+    "Writer": "David Leslie Johnson-McGoldrick, Will Beall",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -291,11 +279,10 @@
     "Runtime": 120,
     "Genre": "Drama, Thriller, History",
     "Summary": "Controversial, but I really liked this movie. I am a sucker for credits where they compare the real people with the actors. But also it's an exciting movie and well-made so leave me alone, or should I say \"Argo f*** yourself\".",
-    "Writer": "",
+    "Writer": "Chris Terrio, Tony Mendez, Joshuah Bearman",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -314,11 +301,10 @@
     "Runtime": 112,
     "Genre": "SciFi, Drama, Action",
     "Summary": "A masterpiece. Linguistics and Aliens are an unlikely combination but it all makes sense and this movie has a twist that will forever leave me with my jaw on the floor just like the first time I saw it. Villeneuve, Adams, Renner. What else do you want? Kangaroo 🤷;",
-    "Writer": "",
+    "Writer": "Eric Heisserer, Ted Chiang",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -327,7 +313,7 @@
     "Medium": "BluRay",
     "Title": "Asterix der Gallier",
     "Year": 1967,
-    "Director": "Ray Goossens",
+    "Director": "René Goscinny, Albert Uderzo",
     "Watched": "YES",
     "Franchise": "YES",
     "Prequels": "",
@@ -337,11 +323,10 @@
     "Runtime": 65,
     "Genre": "Animation, Comedy, History",
     "Summary": "Asterix movies are always fun. I can't exactly distinguish them but with this short of a runtime, do you really need to distinguish them?",
-    "Writer": "",
+    "Writer": "René Goscinny, Albert Uderzo",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -360,11 +345,10 @@
     "Runtime": 111,
     "Genre": "Drama, History, Biography",
     "Summary": "Willem Defoe and Vincent Van Gogh together with an Oscar nomination in acting is a great combination to buy a DVD and eventually watch it.",
-    "Writer": "",
+    "Writer": "Jean-Claude Carrière, Louise Kugelberg, Julian Schnabel",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -383,11 +367,10 @@
     "Runtime": 162,
     "Genre": "Fantasy, SciFi, Drama",
     "Summary": "An epic movie. Can't say much more just watch it again when you need to be inspired.",
-    "Writer": "",
+    "Writer": "James Cameron",
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -410,7 +393,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -433,7 +415,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -456,7 +437,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -479,7 +459,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -502,7 +481,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -525,7 +503,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -548,7 +525,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -571,7 +547,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -594,7 +569,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -617,7 +591,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -640,7 +613,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -663,7 +635,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -686,7 +657,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -709,7 +679,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -732,7 +701,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -755,7 +723,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -778,7 +745,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -801,7 +767,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -824,7 +789,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -847,7 +811,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -870,7 +833,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -893,7 +855,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -916,7 +877,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -939,7 +899,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -962,7 +921,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -985,7 +943,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1008,7 +965,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1031,7 +987,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1054,7 +1009,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1077,7 +1031,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1100,7 +1053,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1123,7 +1075,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1146,7 +1097,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1169,7 +1119,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1192,7 +1141,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1215,7 +1163,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1238,7 +1185,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1261,7 +1207,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1284,7 +1229,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1307,7 +1251,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1330,7 +1273,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1353,7 +1295,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1376,7 +1317,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1399,7 +1339,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1422,7 +1361,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1445,7 +1383,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1468,7 +1405,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1491,7 +1427,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1514,7 +1449,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1537,7 +1471,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1560,7 +1493,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1583,7 +1515,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1606,7 +1537,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1629,7 +1559,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1646,14 +1575,13 @@
     "FranchiseComplete": "YES",
     "MissingParts": "",
     "Runtime": 113,
-    "Genre": "Comedy, Satire, Rom-Com",
+    "Genre": "Comedy",
     "Summary": "Der Film den ich in meinem Leben am meisten zitiere. So viele unglaublich clevere Zitate und eine einzigartige Prämisse sowieso hervorragendes Schauspiel insbesondere von Max von der Groeben und Jella Haase machen diesen Film zu einem meiner Lieblingsfilme und einem persönlichen Klassiker.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Bora Dagtekin",
+    "Music": "Michael Beckmann",
+    "Cinematography": "Christof Wahl",
+    "CostumeDesign": "Regina Tiedeken",
+    "Cast": "Elyas M'Barek, Karoline Herfurth, Katja Riemann, Jella Haase, Max von der Groeben, Gizem Emre, Aram Arami"
   },
   {
     "ID": "Fack_Ju_Göhte_2_2015",
@@ -1669,14 +1597,13 @@
     "FranchiseComplete": "YES",
     "MissingParts": "",
     "Runtime": 111,
-    "Genre": "Comedy, Satire, Rom-Com",
+    "Genre": "Comedy",
     "Summary": "Iiih ein Klärwerk. Die Ideen gehen weiter und weiter und es wird einfach nicht langweilig. Die relatable Geschichte einer Klassenreise und alles was man dort erlebt gemischt mit den geliebten Charakteren aus dem ersten Teil und ein würdiger zweiter Teil, der vielleicht sogar besser ist als der erste. \\D83E\\DD2B",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Bora Dagtekin",
+    "Music": "Michael Beckmann, Djorkaeff, Vincent Stein",
+    "Cinematography": "Andreas Berger",
+    "CostumeDesign": "Regina Tiedeken",
+    "Cast": "Elyas M'Barek, Karoline Herfurth, Katja Riemann, Jella Haase, Max von der Groeben, Gizem Emre, Aram Arami, Volker Bruch, Lena Klenke, Lucas Reiber, Runa Greiner"
   },
   {
     "ID": "Fack_Ju_Göhte_3_2017",
@@ -1692,14 +1619,13 @@
     "FranchiseComplete": "YES",
     "MissingParts": "",
     "Runtime": 120,
-    "Genre": "Comedy, Satire, Rom-Com",
+    "Genre": "Comedy",
     "Summary": "Der letzte Teil der Originalserie hat einfach immer noch unglaublich viele lustige Ideen und cleveren Dialog. Frau Enzberger ist eine gelungene Addition und das Ende rührt mich immer wieder zu Tränen.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "": "",
-    "Cast": ""
+    "Writer": "Bora Dagtekin",
+    "Music": "Djorkaeff, Vincent Stein",
+    "Cinematography": "Markus Nestroy",
+    "CostumeDesign": "Regina Tiedeken",
+    "Cast": "Elyas M'Barek, Karoline Herfurth, Katja Riemann, Jella Haase, Max von der Groeben, Gizem Emre, Aram Arami, Volker Bruch, Lena Klenke, Lucas Reiber, Runa Greiner, Lea van Acken, Sandra Hüller"
   },
   {
     "ID": "Fantastic_Beasts_and_Where_to_Find_Them_2016",
@@ -1721,7 +1647,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1744,7 +1669,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1767,7 +1691,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1790,7 +1713,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1813,7 +1735,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1836,7 +1757,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1859,7 +1779,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1882,7 +1801,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1905,7 +1823,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1928,7 +1845,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1951,7 +1867,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1974,7 +1889,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -1997,7 +1911,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2020,7 +1933,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2043,7 +1955,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2066,7 +1977,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2089,7 +1999,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2112,7 +2021,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2135,7 +2043,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2158,7 +2065,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2181,7 +2087,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2204,7 +2109,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2227,7 +2131,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2250,7 +2153,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2273,7 +2175,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2296,7 +2197,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2319,7 +2219,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2342,7 +2241,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2365,7 +2263,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2388,7 +2285,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2411,7 +2307,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2434,7 +2329,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2457,7 +2351,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2480,7 +2373,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2503,7 +2395,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2526,7 +2417,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2549,7 +2439,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2572,7 +2461,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2595,7 +2483,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2618,7 +2505,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2641,7 +2527,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2664,7 +2549,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2687,7 +2571,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2710,7 +2593,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2733,7 +2615,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2756,7 +2637,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2779,7 +2659,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2802,7 +2681,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2825,7 +2703,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2848,7 +2725,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2871,7 +2747,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2894,7 +2769,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2917,7 +2791,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2940,7 +2813,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2963,7 +2835,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -2986,7 +2857,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3009,7 +2879,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3032,7 +2901,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3055,7 +2923,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3078,7 +2945,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3101,7 +2967,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3124,7 +2989,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3147,7 +3011,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3170,7 +3033,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3193,7 +3055,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3216,7 +3077,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3239,7 +3099,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3262,7 +3121,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3285,7 +3143,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3308,7 +3165,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3331,7 +3187,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3354,7 +3209,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3377,7 +3231,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3400,7 +3253,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3423,7 +3275,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3446,7 +3297,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3469,7 +3319,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3492,7 +3341,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3515,7 +3363,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3538,7 +3385,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3561,7 +3407,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3584,7 +3429,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3607,7 +3451,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3630,7 +3473,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3653,7 +3495,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3676,7 +3517,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3699,7 +3539,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3722,7 +3561,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3745,7 +3583,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3768,7 +3605,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3791,7 +3627,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3814,7 +3649,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3837,7 +3671,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3860,7 +3693,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3883,7 +3715,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3906,7 +3737,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3929,7 +3759,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3952,7 +3781,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3975,7 +3803,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -3998,7 +3825,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4021,7 +3847,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4044,7 +3869,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4067,7 +3891,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4090,7 +3913,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4113,7 +3935,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4136,7 +3957,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4159,7 +3979,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4182,7 +4001,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4205,7 +4023,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4228,7 +4045,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4251,7 +4067,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4274,7 +4089,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4297,7 +4111,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4320,7 +4133,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4343,7 +4155,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4366,7 +4177,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4389,7 +4199,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4412,7 +4221,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4435,7 +4243,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4458,7 +4265,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4481,7 +4287,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4504,7 +4309,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4527,7 +4331,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4550,7 +4353,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4573,7 +4375,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4596,7 +4397,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4619,7 +4419,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4642,7 +4441,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4665,7 +4463,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4688,7 +4485,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4711,7 +4507,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4734,7 +4529,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4757,7 +4551,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4780,7 +4573,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4803,7 +4595,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4826,7 +4617,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4849,7 +4639,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4872,7 +4661,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4895,7 +4683,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4918,7 +4705,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4941,7 +4727,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4964,7 +4749,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -4987,7 +4771,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5010,7 +4793,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5033,7 +4815,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5056,7 +4837,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5079,7 +4859,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5102,7 +4881,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5125,7 +4903,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5148,7 +4925,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5171,7 +4947,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5194,7 +4969,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5217,7 +4991,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5240,7 +5013,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5263,7 +5035,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5286,7 +5057,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5309,7 +5079,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5332,8 +5101,29 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
+  },
+  {
+    "ID": "Short_Term_12_2013",
+    "Type": "Movie",
+    "Medium": "BluRay",
+    "Title": "Short Term 12",
+    "Year": 2013,
+    "Director": "Destin Daniel Cretton",
+    "Watched": "YES",
+    "Franchise": "NO",
+    "Prequels": "",
+    "Sequels": "",
+    "FranchiseComplete": "",
+    "MissingParts": "",
+    "Runtime": 96,
+    "Genre": "Drama, Coming-of-Age",
+    "Summary": "This movie has so many familiar faces in it that I always wondered why I never had heard of it before watching it for the first time. It should be talked about much more. It's a small movie but so beautiful and it seems so meaningful. You can tell that it was made with love. Like when Spongebob makes his burger while Neptune is mass-producing his. This movie is Spongebob's burger.",
+    "Writer": "Destin Daniel Cretton",
+    "Music": "Joel P West",
+    "Cinematography": "Brett Pawlak",
+    "CostumeDesign": "Jered Blanchard",
+    "Cast": "Brie Larson, Rami Malek, Kailyn Dever, Stephanie Beatriz, LaKeith Stanfield"
   },
   {
     "ID": "Shutter_Island_2010",
@@ -5355,7 +5145,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5378,7 +5167,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5401,7 +5189,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5424,7 +5211,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5447,7 +5233,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5470,7 +5255,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5493,7 +5277,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5516,7 +5299,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5539,7 +5321,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5562,7 +5343,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5585,7 +5365,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5608,7 +5387,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5631,7 +5409,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5654,7 +5431,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5677,7 +5453,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5700,7 +5475,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5723,7 +5497,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5746,7 +5519,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5769,7 +5541,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5792,7 +5563,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5815,7 +5585,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5838,7 +5607,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5861,7 +5629,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5884,7 +5651,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5907,7 +5673,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5930,7 +5695,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5953,7 +5717,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5976,7 +5739,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -5999,7 +5761,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6022,7 +5783,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6045,7 +5805,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6068,7 +5827,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6091,7 +5849,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6114,7 +5871,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6137,7 +5893,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6160,7 +5915,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6183,7 +5937,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6206,7 +5959,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6229,7 +5981,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6252,7 +6003,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6275,7 +6025,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6298,7 +6047,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6321,7 +6069,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6344,7 +6091,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6367,7 +6113,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6390,7 +6135,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6413,7 +6157,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6436,7 +6179,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6459,7 +6201,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6482,7 +6223,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6505,7 +6245,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6528,7 +6267,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6551,7 +6289,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6574,7 +6311,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6597,7 +6333,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6620,7 +6355,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6643,7 +6377,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6666,7 +6399,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6689,7 +6421,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6712,7 +6443,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6735,7 +6465,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6758,7 +6487,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6781,7 +6509,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6804,7 +6531,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6827,7 +6553,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6850,7 +6575,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6873,7 +6597,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6896,7 +6619,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6919,7 +6641,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6942,7 +6663,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6965,7 +6685,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -6988,7 +6707,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7011,7 +6729,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7034,7 +6751,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7057,7 +6773,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7080,7 +6795,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7103,7 +6817,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7126,7 +6839,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7149,7 +6861,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7172,7 +6883,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": "Jodie Comer"
   },
   {
@@ -7195,7 +6905,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7218,7 +6927,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7241,7 +6949,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7264,7 +6971,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7287,7 +6993,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7310,7 +7015,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7333,7 +7037,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7356,7 +7059,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7379,7 +7081,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7402,7 +7103,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7425,7 +7125,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7448,7 +7147,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7471,7 +7169,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7494,7 +7191,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7517,7 +7213,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7540,7 +7235,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7563,7 +7257,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7586,7 +7279,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7609,7 +7301,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7632,7 +7323,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7655,7 +7345,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7678,7 +7367,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7701,7 +7389,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7724,7 +7411,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7747,7 +7433,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7770,7 +7455,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7793,7 +7477,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7816,7 +7499,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7839,7 +7521,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7862,7 +7543,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7885,7 +7565,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7908,7 +7587,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7931,7 +7609,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7954,7 +7631,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -7977,7 +7653,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8000,7 +7675,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8023,7 +7697,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8046,7 +7719,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8069,7 +7741,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8092,7 +7763,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8115,7 +7785,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8138,7 +7807,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8161,7 +7829,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8184,7 +7851,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8207,7 +7873,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8230,7 +7895,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8253,7 +7917,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8276,7 +7939,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8299,7 +7961,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8322,7 +7983,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8345,7 +8005,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8368,7 +8027,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8391,7 +8049,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8414,7 +8071,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8437,7 +8093,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8460,7 +8115,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8483,7 +8137,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8506,7 +8159,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8529,7 +8181,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8552,7 +8203,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8575,7 +8225,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8598,7 +8247,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8621,7 +8269,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8644,7 +8291,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   },
   {
@@ -8667,7 +8313,6 @@
     "Music": "",
     "Cinematography": "",
     "CostumeDesign": "",
-    "": "",
     "Cast": ""
   }
 ]
