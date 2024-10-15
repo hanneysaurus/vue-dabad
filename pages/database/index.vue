@@ -23,7 +23,7 @@
         <p>Genre: </p>
         <select name="genres" id="genres">
           <option></option>
-          <option v-for="g in getGenres()" :value="{g}">{{g}}</option>
+          <option v-for="g in getGenres()" :value="{g}">{{ g }}</option>
         </select>
         <p>Type: </p>
         <select>
@@ -33,13 +33,23 @@
         </select>
         <div class="runtime-search">
           <p>Runtime: </p>
-          <input type="text" placeholder="from"/>
-          <input type="text" placeholder="to"/>
+          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="from"/>
+          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="to"/>
         </div>
-        <input type="checkbox">watched
-        <input type="checkbox">franchise
-        <input/>cast and crew
+        <div class="watched">
+          <p>Watched</p>
+          <input type="checkbox">
+        </div>
+        <div class="franchise">
+          <p>Franchise</p>
+          <input type="checkbox">
+        </div>
+        <div class="cast-crew">
+          <p>Cast & Crew</p>
+          <input type="text" placeholder="cast and crew"/>
+        </div>
       </div>
+      <button class="search-button">search</button>
     </div>
   </div>
   <div class="database">
@@ -149,13 +159,33 @@ const getRandomMedia = () => {
     display: flex;
     flex-direction: column;
 
+    select {
+      font-family: inherit;
+    }
+
+    input {
+      font-family: inherit;
+    }
+
+    .search-button {
+      font-family: inherit;
+      align-self: end;
+    }
+
     .advanced-search-filters {
       display: flex;
       flex-direction: row;
+      margin: 10px 0 0 15px;
 
-      .runtime-search{
+      .runtime-search {
         display: flex;
         flex-direction: row;
+
+        input::-webkit-inner-spin-button {
+          -webkit-appearance: none;
+          -moz-appearance: textfield;
+        }
+
       }
 
     }
