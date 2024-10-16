@@ -49,7 +49,7 @@
           <input type="text" placeholder="cast and crew"/>
         </div>
       </div>
-      <button class="search-button">search</button>
+      <button class="search-button" @submit="updateSearchQuery">search</button>
     </div>
   </div>
   <div class="database">

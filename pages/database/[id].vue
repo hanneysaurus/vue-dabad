@@ -18,7 +18,7 @@
         <p class="director"><b>directed by</b> {{ media.Director }}</p>
         <p class="writer"><u>written by</u> {{ media.Writer }}</p>
         <div class="summary">
-          <p>{{ media.Summary }}</p>
+          <p><i>{{ media.Summary }}</i></p>
         </div>
         <p class="cast">{{ media.Cast }}</p>
         <p class="cinematographer">{{ media.Cinematography }}</p>
