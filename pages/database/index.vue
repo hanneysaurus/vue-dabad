@@ -97,7 +97,6 @@ const getRandomMedia = () => {
   navigateTo('database/' + randomID);
 }
 
-
 </script>
 
 <style lang="scss" scoped>

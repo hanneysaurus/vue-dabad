@@ -411,11 +411,11 @@
     "Runtime": 114,
     "Genre": "Comedy, Romance, Drama",
     "Summary": "This will be a movie that people will still talk about in 20 years. It is a masterpiece that makes you laugh (as a woman and in the future hopefully also men) and Greta Gerwig was snubbed 100& of any award and Margot proves to be an incredible producer. Please never make a second Barbie. Leave this masterpiece as it is.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Greta Gerwig, Noah Baumbach",
+    "Music": "Mark Ronson, Andrew Wyatt",
+    "Cinematography": "Rodrigo Prieto",
+    "CostumeDesign": "Jacqueline Durran",
+    "Cast": "Margot Robbie, Issa Rae, Kate McKinnon, Alexandra Shipp, Emma Mackey, Hari Nef, Sharon Rooney, Ritu Arya, Dua Lipa, Nicola Coughlan, Emeral Fennell, Ryan Gosling, Simu Liu, Kingsley Ben-Adir, Ncuti Gatwa, Michaele Cera, John Cena, America Ferrera, Ariana Greenblatt, Helen Mirren, Will Ferrel, Connor Swindells"
   },
   {
     "ID": "Batman_Begins_2005",
@@ -498,12 +498,12 @@
     "MissingParts": "",
     "Runtime": 122,
     "Genre": "Drama, History, Sports",
-    "Summary": "Emma Stone, Steve Carrell and Tennis - great combination. I like the old style of the movie and an icon like Billie Jean King does deserve her own movie. It is dangerous because whenever I hear \"Rocketman\" by Elton John I have to watch this movie.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "Emma Stone, Steve Carell and Tennis - great combination. I like the old style of the movie and an icon like Billie Jean King does deserve her own movie. It is dangerous because whenever I hear \"Rocketman\" by Elton John I have to watch this movie.",
+    "Writer": "Simon Beaufoy",
+    "Music": "Nicholas Britell",
+    "Cinematography": "Linus Sandrgen",
+    "CostumeDesign": "Mary Zophres",
+    "Cast": "Emma Stone, Steve Carell, Andrea Riseborough, Natalie Morales, Sarah Silverman, Bill Pullman, Alan Cumming"
   },
   {
     "ID": "Baywatch_2017",
@@ -521,11 +521,11 @@
     "Runtime": 112,
     "Genre": "Comedy, Romance, Drama",
     "Summary": "It is so much fun and I am not ashamed to say that I love every minute of this movie. It's hot and has a great soundtrack, what else do you expect?",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Damian Shannon, Mark Swift",
+    "Music": "Christopher Lennertz",
+    "Cinematography": "Eric Steelberg",
+    "CostumeDesign": "Dayna Pink",
+    "Cast": "Dwayne Johnson, Zac Efron, Priyanka Chopra Jonas, Alexandra Daddario, Kelly Rohrbach, Ilfenesh Hadera, Jon Bass, Yahya Abdul-Mateen II, David Hasselhoff, Pamela Anderson"
   },
   {
     "ID": "Bean_1997",
@@ -653,11 +653,11 @@
     "Runtime": 109,
     "Genre": "Action, Comedy, SciFi",
     "Summary": "Girlgang and Harley Quinn. I love the little things that point out this movie was directed by a woman and has women at its center. We want more of this. Also Ewan McGregor makes a great villain and the soundtrack is amazing. Harley's break-up message to the Joker scene is one of my favorite scenes in movie history.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Christina Hodson",
+    "Music": "Daniel Pemberton",
+    "Cinematography": "Matthew Libatique",
+    "CostumeDesign": "Erin Benach, Helen Huang",
+    "Cast": "Margot Robbie, Rosie Perez, Mary Elizabeth Winstead, Jurnee Smollett, Ewan McGregor, Ella Jay  Basco, Chris Messina, Ali  Wong"
   },
   {
     "ID": "Black_Panther_2018",
@@ -741,11 +741,11 @@
     "Runtime": 105,
     "Genre": "Drama, Biography",
     "Summary": "No crying at Fox. The cast of this is insane and the fact that they added real-life footage that you cannot tell where it is also. Charlize Theron as Megyn Kelly should have earned her a second Oscar and Margot Robbie and Kate McKinnon are a super fun unexpected duo (as proven in Barbie). A standout: the Editing.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Charles Randolph",
+    "Music": "Theodore Shapiro",
+    "Cinematography": "Barry Ackroyd",
+    "CostumeDesign": "Colleen Atwood",
+    "Cast": "Charlize Theron, Nicole Kidman, Margot Robbie, John Lithgow, Allison Janney, Malcolm McDowell, Kate McKinnon, Connie Britton, Liv Hewson, Mark Duplass, D'Arcy Carden, Jennifer Morrison, Madeline Zima"
   },
   {
     "ID": "Booksmart_2019",
@@ -763,11 +763,11 @@
     "Runtime": 98,
     "Genre": "Comedy, Coming-of-Age, Drama",
     "Summary": "Thank you for introducing me to Kaitlyn Dever. This movie is representation and fun and love and anxiety.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Katie Silberman, Susanna Fogel, Sarah Haskins, Emily Halpern",
+    "Music": "Dan The Automator",
+    "Cinematography": "Jason McCormick",
+    "CostumeDesign": "April Napier",
+    "Cast": "Kaitlyn Dever, Beanie Feldstein, Jessica Williams, Jason Sudeikis, Lisa Kudrow, Will Forte,  Mason Gooding, Skyler Gisondo, Diana Silvers, Molly Gordon, Billie Lourd, Noah Galvin, Maya Rudolph"
   },
   {
     "ID": "Brooklyn_2015",
@@ -806,7 +806,7 @@
     "MissingParts": "",
     "Runtime": 121,
     "Genre": "Drama",
-    "Summary": "Elizbaeth Banks makes all my guilty pleasure movies. This also stars Chris Messina and Sigourney Weaver so it has enough arguments to be in my library.",
+    "Summary": "Elizabeth Banks makes all my guilty pleasure movies. This also stars Chris Messina and Sigourney Weaver so it has enough arguments to be in my library.",
     "Writer": "",
     "Music": "",
     "Cinematography": "",
@@ -939,11 +939,11 @@
     "Runtime": 114,
     "Genre": "Action, Comedy",
     "Summary": "Elizabeth Banks 🤷. For some reason this woman always hits my taste for casual movies exactly. Great talent, shallow story, fun little one-liners and cool soundtrack. Kristen Stewart and Naomi Scott did a great press tour and that's really all that it takes for me to like a movie and watch it more that others would.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Elizabeth Banks",
+    "Music": "Brian Tyler",
+    "Cinematography": "Bill Pope",
+    "CostumeDesign": "Kym Barret",
+    "Cast": "Kristen Stewart, Naomi Scott, Ella Balinska, Elizabeth Banks, Patrick Stewart, Djimon Hounsou, Sam Claflin, Noah Centineo"
   },
   {
     "ID": "Christopher_Robin_2018",
@@ -1313,11 +1313,11 @@
     "Runtime": 60,
     "Genre": "Drama, Mystery, Romance",
     "Summary": "I never thought I would hate Jodie Comer. I thought that without understanding the true power this woman holds. A great series that depicts the aweful truth and consequences of unfaithfulness. Simon Foster is the most hated man in television (by me). THAT dinner scene is so iconic, it belongs in a museum. Bitch is right and I'm a wolf tonight!",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Mike Bartlett",
+    "Music": "Frans Bak",
+    "Cinematography": "Jean-Philippe Gossart, Joel Devlin",
+    "CostumeDesign": "Alexandra Caulfield",
+    "Cast": "Suranne Jones, Bertie Carvel, Tom Taylor, Thusitha Jayasundera, Shazia Nicholls, Jodie Comer"
   },
   {
     "ID": "Doctor_Foster_A_Woman_Scorned_Season_2_2017",
@@ -1335,11 +1335,11 @@
     "Runtime": 60,
     "Genre": "Drama, Romance",
     "Summary": "People complain about the second season of Doctor Foster. I don't mind it. It's good to see that Jodie finds a good life and Simon gets what he deserves. I like that they show what the affair did to Tom.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Mike Bartlett",
+    "Music": "Stuart Earl",
+    "Cinematography": "Ben Wheeler",
+    "CostumeDesign": "Jo Slater",
+    "Cast": "Suranne Jones, Bertie Carvel, Tom Taylor, Thusitha Jayasundera, Shazia Nicholls, Jodie Comer"
   },
   {
     "ID": "Doubt_2008",
@@ -1774,12 +1774,12 @@
     "MissingParts": "",
     "Runtime": 115,
     "Genre": "SciFi, Comedy, Romance",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "My first ever physical medium signed by Jodie Comer. Hopefully there will be at least one more but for now I have a lot of pride in this. I still want that sweater she wears in this movie. Even though the movie isn't great, it has a lot of meaning to me (and it was also Jodie's first movie she starred in). There's a lot of mistakes in terms of video game development but I appreciate the many hints and easter eggs in honor of video games and I admit that this movie is the reason I started liking Ryan Reynolds. Jodie being the smart coder is also really cool and inspiring.",
+    "Writer": "Matt Lieberman, Zak Penn",
+    "Music": "Christophe Beck",
+    "Cinematography": "George Richmond",
+    "CostumeDesign": "Marlene Stewart",
+    "Cast": "Ryan Reynolds, Jodie Comer, Lil Rel Howery, Joe Keery, Utkarsh Ambudkar, Taika Waititi, Channing Tatum"
   },
   {
     "ID": "Frozen_2013",
@@ -1929,11 +1929,11 @@
     "Runtime": 103,
     "Genre": "History, Biography, Drama",
     "Summary": "A hauntingly beautiful and beautifully acted movie that has Margot Robbie's most underrated yet best performance. This movie is incredibly sad yet shows the beautiful scenery in which Winnie the Pooh came to life and the meaning the stories had to the lives of the people involved.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Frank Cottrell Boyce, Simon Vaughan",
+    "Music": "Carter Burwell",
+    "Cinematography": "Ben Smithard",
+    "CostumeDesign": "Odile Dicks-Mireaux",
+    "Cast": "Margot Robbie, Domhnall Gleeson, Vicki Pepperdine, Will Tinston, Alex Lawther"
   },
   {
     "ID": "Gravity_2013",
@@ -2060,12 +2060,12 @@
     "MissingParts": "",
     "Runtime": 98,
     "Genre": "Seasonal, Romance, Comedy",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "I can't wait for Christmas season so I can watch this on repeat again. It is just such a cute and lovely movie. Audrey Plaza and Kristen Stewart should have ended up with each other but this movie hits so close to home that it is kind of a nice relief to watch this as a lovely Christmas comedy.",
+    "Writer": "Clea DuVall, Mary Holland",
+    "Music": "Amie Doherty",
+    "Cinematography": "John Guleserian",
+    "CostumeDesign": "Kathleen Felix-Hager",
+    "Cast": "Kristen Stewart, Mackenzie Davis, Mary Steenburgen, Victor Garber, Alison Brie, Mary Holland, Dan Levy, Aubrey Plaza"
   },
   {
     "ID": "Harry_Potter_and_the_Chamber_of_Secrets_2002",
@@ -2258,12 +2258,12 @@
     "MissingParts": "",
     "Runtime": 98,
     "Genre": "Drama, Thriller",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "This is a movie that people will look back on in ten year's time. It conveys the horros of the COVID pandemic and the horrifying circumstances in care-homes so incredibly well that you can't help but feel unwell watching this. Obviously, Jodie's performance is incredibly nuanced, vulnerable and multi-faceted. I cannot get enough of her scouse accent and for some reason have gone back to watch this movie multiple times despite its unsettling premise.",
+    "Writer": "Jack Thorne",
+    "Music": "Anna Meredith, Jim Williams",
+    "Cinematography": "Mark Wolf",
+    "CostumeDesign": "Holly Rebecca",
+    "Cast": "Jodie Comer, Stephen Graham, Ian Hart"
   },
   {
     "ID": "Hereditary_2018",
@@ -2567,11 +2567,11 @@
     "Runtime": 120,
     "Genre": "Drama, Biography",
     "Summary": "Margot Robbie's forever Oscar-snub. On first watch I didn't really know what to think about this movie but on several rewatches there is so much nuance to this movie and not only Margot's performance is incredible but obviously also Allison Janney knocks it out of the park and it is a pleasure to watch them carry this movie so well.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Steven Rogers",
+    "Music": "Peter Nashel",
+    "Cinematography": "Nicolas Karakatsanis",
+    "CostumeDesign": "Jennifer Johnson",
+    "Cast": "Margot Robbie, Sebastian Stan, Allison Janney, Julianne Nicholson, Paul Walter Hauser, Mckenna Grace"
   },
   {
     "ID": "In_Time_2011",
@@ -2764,12 +2764,12 @@
     "MissingParts": "",
     "Runtime": 120,
     "Genre": "Musical, Adventure, Fantasy",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "My comfort movie. The cast and the songs and the settings are just the best. It is one that had me bond with my friends even more. I downloaded all of the songs onto my iPod back in the days and just love this story so much.",
+    "Writer": "James Lapine",
+    "Music": "Stephen Sondheim",
+    "Cinematography": "Dion Beebe",
+    "CostumeDesign": "Colleen Atwood",
+    "Cast": "Anna Kendrick, Daniel Huttlestone, James Corden, Emily Blunt, Christine Baranski, Tammy Blanchard, Lucy Punch, Tracey Ullman, Lilla Crawford, Meryl Streep, Johnny Depp, Billy Magnussen, Mackenzie Mauzy, Annette Crosbie, Chris Pine"
   },
   {
     "ID": "Isle_of_Dogs_2018",
@@ -2896,12 +2896,12 @@
     "MissingParts": "",
     "Runtime": 108,
     "Genre": "History, Comedy, War",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "Eif het eytin kitz foa Tschörmeni. I never thought anyone would be able to make a good comedy about World War II. Turns out you just have to hand it to Taika Waititi. The jokes about h***ing H***** and the summer camp and such are just insanely delicate and well made. A gay Sam Rockwell and the dumb NASDAP is just so well thought through. Despite the heavy material and sad parts of this movie it is still an incredibly well made comedy and always a pleasure to watch.",
+    "Writer": "Taika Waititi",
+    "Music": "Michael Giacchino",
+    "Cinematography": "Mihai Malaimare Jr.",
+    "CostumeDesign": "Mayes C. Rubeo",
+    "Cast": "Roman Griffin Davis, Thomasin McKenzie, Scarlett Johannson, Taika Waititi, Sam Rockwell, Rebel Wilson, Alfie Allen, Archie Yates, Stephen Merchant"
   },
   {
     "ID": "Joker_2019",
@@ -2918,12 +2918,12 @@
     "MissingParts": "Joker 2: Folie à Deux",
     "Runtime": 122,
     "Genre": "Drama",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "The first movie I watched in Stockholm when I moved there. An unexpectedly dark superhero movie that no one thought would land the way it did. With Todd Phillips who we'd previously only known for The Hangover as a director this was even more of a surprise. The introduction of Hildur Gudnadottir and with that the first ever Oscar for a woman in the Original Score category makes this movie quite monumental.",
+    "Writer": "Todd Phillips, Scott Silver",
+    "Music": "Hildur Gudnadottir",
+    "Cinematography": "Lawrence Sher",
+    "CostumeDesign": "Mark Bridges",
+    "Cast": "Joaquin Pheonix, Robert de Niro, Zazie Beetz, Frances Conroy"
   },
   {
     "ID": "Journey_2_The_Mysterious_Island_2012",
@@ -3195,7 +3195,7 @@
     "Medium": "DVD",
     "Title": "Killing Eve [Season 1]",
     "Year": 2018,
-    "Director": "Pheobe Waller Bridge",
+    "Director": "Phoebe Waller-Bridge",
     "Watched": "YES",
     "Franchise": "YES",
     "Prequels": "",
@@ -3205,11 +3205,11 @@
     "Runtime": 42,
     "Genre": "Drama, Crime, Action",
     "Summary": "We get introduced to this incredibly toxicating individual that is Villanelle and played so flawlessly by Jodie Comer. This season is written so well that you don't ever want to watch anything that is not written by Pheobe Waller Bridge.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Pheobe Waller-Bridge",
+    "Music": "Keefus Ciania, David Holmes",
+    "Cinematography": "Julian Court",
+    "CostumeDesign": "Phoebe De Gaye",
+    "Cast": "Jodie Comer, Sandra Oh, Fiona Shaw, Kim Bodnia, Owen McDonnell, Sean Delaney, Kirby Howell-Baptiste"
   },
   {
     "ID": "Killing_Eve_Season_2_2019",
@@ -3217,7 +3217,7 @@
     "Medium": "DVD",
     "Title": "Killing Eve [Season 2]",
     "Year": 2019,
-    "Director": "Pheobe Waller Bridge",
+    "Director": "Phoebe Waller-Bridge",
     "Watched": "YES",
     "Franchise": "YES",
     "Prequels": "Killing Eve [Season 1]",
@@ -3227,11 +3227,11 @@
     "Runtime": 42,
     "Genre": "Drama, Crime, Action",
     "Summary": "The greatest television scene of all time when Villanelle knocks her accent game out of the park in in episode 6 and destroys any other attempt of anyone at acting. Deservingly this scene brought her the Emmy. It should have also given her the Golden Globe but she will come back with something else and get that.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Emerald Fennell",
+    "Music": "Keefus Ciania, David Holmes",
+    "Cinematography": "Julian Court",
+    "CostumeDesign": "Charlotte Mitchell",
+    "Cast": "Jodie Comer, Sandra Oh, Fiona Shaw, Kim Bodnia, Owen McDonnell, Sean Delaney, Kirby Howell-Baptiste, Edward Bluemel, Nina Sosanya, Henry Lloyd-Hughes"
   },
   {
     "ID": "Killing_Eve_Season_3_2020",
@@ -3239,7 +3239,7 @@
     "Medium": "DVD",
     "Title": "Killing Eve [Season 3]",
     "Year": 2020,
-    "Director": "Pheobe Waller Bridge",
+    "Director": "Phoebe Waller-Bridge",
     "Watched": "YES",
     "Franchise": "YES",
     "Prequels": "Killing Eve [Season 1], Killing Eve [Season 2]",
@@ -3249,11 +3249,11 @@
     "Runtime": 42,
     "Genre": "Drama, Crime, Action",
     "Summary": "This is where we feel the absence of PWB. It is still worthy to be part of the greatest TV series ever made and Eve and Villanelle separating on the Tower Bridge will always be heartbreaking.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Suzanne Heathcote",
+    "Music": "Keefus Ciania, David Holmes",
+    "Cinematography": "Julian Court",
+    "CostumeDesign": "Sam Perry",
+    "Cast": "Jodie Comer, Sandra Oh, Fiona Shaw, Kim Bodnia, Owen McDonnell, Harriet Walter, Turlough Convery, Gemma Whelan, Danny Sapani"
   },
   {
     "ID": "Killing_Eve_Season_4_2022",
@@ -3261,7 +3261,7 @@
     "Medium": "DVD",
     "Title": "Killing Eve [Season 4]",
     "Year": 2022,
-    "Director": "Pheobe Waller Bridge",
+    "Director": "Phoebe Waller-Bridge",
     "Watched": "YES",
     "Franchise": "YES",
     "Prequels": "Killing Eve [Season 1], Killing Eve [Season 2], Killing Eve [Season 3]",
@@ -3271,11 +3271,11 @@
     "Runtime": 42,
     "Genre": "Drama, Crime, Action",
     "Summary": "Should this season have happened? Maybe. Yes. No. I am okay with it. Having met Pam in real life and having been to Margate, this is season is very meaningful to me and the last episode is quite well made. I am happy that my favorite characters all survived and nothing bad happened in the last five minutes.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Laura Neal",
+    "Music": "Keefus Ciania, David Holmes",
+    "Cinematography": "Julian Court",
+    "CostumeDesign": "Sam Perry",
+    "Cast": "Jodie Comer, Sandra Oh, Fiona Shaw, Kim Bodnia, Edward Bluemel, Camille Cottin, Anjana Vasan, Adeel Akhtar"
   },
   {
     "ID": "Kingsman_The_Golden_Circle_2017",
@@ -3336,12 +3336,12 @@
     "MissingParts": "Glass Onion: A Knives Out Mystery",
     "Runtime": 131,
     "Genre": "Crime, Drama, Comedy",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "Movies with an amazing cast just get me. The way the actors can play off of each other is great and just always creates something exciting. I saw this movie at the Stockholm Fim Festival and was immediately blown away by the first shot and am every time I watch it. The music in this movie is so underrated. It fits the genre and film perfectly and should have gotten much more acknowledgement. The production design is amazing and the house seems to be a whole character on its own. Daniel Craig's crazy accent is fun and fresh and as a whodunnit fan it is a proper kick-off to a new series of whodunnits like we love them 🔪.",
+    "Writer": "Rian Johnson",
+    "Music": "Nathan Johnson",
+    "Cinematography": "Steve Yedlin",
+    "CostumeDesign": "Jenny Eagan",
+    "Cast": "Daniel Craig, Chris Evans, Ana de Armas, Jamie Lee Curtis, Michael Shannon, Don Johnson, Toni Collette, LaKeith Stanfield, Christopher Plummer, Katherine Langford, Jaeden Martell, Riki Lindhome, Edi Patterson"
   },
   {
     "ID": "Kong_Skull_Island_2017",
@@ -3380,12 +3380,12 @@
     "MissingParts": "",
     "Runtime": 123,
     "Genre": "Musical, Romance, Drama",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "I am the fool who dreams, so this movie will always be the reason I will not stop dreaming. It came at the exact right time and I will be forever grateful for that. The music is incredibly delicate and beautiful and fitting and just *chef's kiss*. Damien Chazelle hit a nerve with this movie and Emma Stone's monologue in Boulder is what I regularly fall back to and even if I don't have a Ryan Gosling to tell me to get my shit together I think of Sebastian and Mia and how their lives turned out. The story might be fiction but I see my truth in it and moreso, my future. AND of course the DVD is signed beautifully by Linus Sandgren which was one of my favorite interactions with the film industry yet.",
+    "Writer": "Damien Chazelle",
+    "Music": "Justin Hurwitz",
+    "Cinematography": "Linus Sandrgen",
+    "CostumeDesign": "Mary Zophres",
+    "Cast": "Emma Stone, Ryan Gosling, J.K. Simmons, John Legend, Rosemarie DeWitt, Callie Hernandez, Sonoya Mizuno, Olivia Hamilton, Finn Wittrock"
   },
   {
     "ID": "Lady_Bird_2017",
@@ -4106,12 +4106,12 @@
     "MissingParts": "",
     "Runtime": 120,
     "Genre": "Drama",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
+    "Summary": "You know this is the greatest theatric performance that has ever been seen. If you don't know it, then you haven't seen it yet.",
+    "Writer": "Suzie Miller",
+    "Music": "Rebecca Lucy Taylor",
+    "Cinematography": "Sam Bishop",
     "CostumeDesign": "",
-    "Cast": ""
+    "Cast": "Jodie Comer"
   },
   {
     "ID": "Night_at_the_Museum_2006",
@@ -4657,11 +4657,11 @@
     "Runtime": 107,
     "Genre": "Comedy, Romance, Musical",
     "Summary": "Aca-believe it. This is probably the best start to a chick-flick film series that was ever made. This might be the movie I have conciously watched the most in my life because it used to run while I was doing homework. Deservingly so.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Kay Cannon",
+    "Music": "Christophe Beck, Mark Kilian",
+    "Cinematography": "Julio Macat",
+    "CostumeDesign": "Salvador Pérez Jr.",
+    "Cast": "Anna Kendrick, Skylar Astin, Ben Platt, Brittany Snow, Anna Camp, Rebel Wilson, Alexis Knapp, Ester Dean, Hana Mae Lee, Kelley Jakle, Shelley Regner, Adam Devine, Utkarsh Ambudkar, Elizabeth Banks, John Michael Higgins"
   },
   {
     "ID": "Pitch_Perfect_2_2015",
@@ -4679,11 +4679,11 @@
     "Runtime": 110,
     "Genre": "Comedy, Romance, Musical",
     "Summary": "Thank you Elizabeth Banks. The way they extend on the friendship of The Bellas with new epic performances and the addition of Hailee Steinfeld (😍) this is a worthy sequel of an iconic first movie.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Kay Cannon",
+    "Music": "Mark Mothersbaugh",
+    "Cinematography": "Jim Denault",
+    "CostumeDesign": "Salvador Pérez Jr.",
+    "Cast": "Anna Kendrick, Rebel Wilson, Hailee Steinfeld, Brittany Snow, Skylar Astin, Adam Devine, Katey Sagal, Anna Camp, Ben Platt, Alexis Knapp, Hana Mae Lee, Ester Dean, Chrissie Fit, Birgitte Hjort Sorensen, Flula Borg, Kelley Jakle, Shelley Regner, Keegan-Michael Key, Snoop Dogg, Elizabeth Banks, John Michael Higgins,"
   },
   {
     "ID": "Pitch_Perfect_3_2017",
@@ -4701,11 +4701,11 @@
     "Runtime": 89,
     "Genre": "Comedy, Adventure, Musical",
     "Summary": "This film series hits bullseye every time. With a new story and familiar favorites and again awesome songs (maybe some of the best throughout the series). I will never accept that this is the end of the franchise and it makes me happy that the cast is friends in real life too because that makes me think The Bellas are still together.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Kay Cannon, Mike White",
+    "Music": "Christopher Lennertz",
+    "Cinematography": "Matthew Clark",
+    "CostumeDesign": "Salvador Pérez Jr.",
+    "Cast": "Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp, Hailee Steinfeld, Ester Dean, Hana Mae Lee, Kelley Jakle, Shelley Regner, Chrissie Fit, Elizabeth Banks, John Michael Higgins, John Lithgow, Matt Lanter, Guy Burnet, DJ Khaled, Ruby Rose"
   },
   {
     "ID": "Planes_Trains_and_Automobiles_1987",
@@ -5734,12 +5734,12 @@
     "MissingParts": "Star Wars: Episode I – The Phantom Menace, Star Wars: Episode II – Attack of the Clones, Star Wars: Episode III – Revenge of the Sith, Star Wars: Episode IV – A New Hope, Star Wars: Episode V – The Empire Strikes Back, Star Wars: Episode VI – Return of the Jedi",
     "Runtime": 152,
     "Genre": "Fantasy, Action, SciFi",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "This movie was trash... UNTIL I found out Jodie Comer has a 30 seconds appearance in it. Just joking it is still a really bad movie but it is super cool that Jodie Comer is in it and if I was forced to watch it again I would because I know I have something to look forward to. Anyways, I also went to see this film my crush (🤫) so it would have been so much more fun if we kissed instead of Daisy Ridley and Adam Driver (which was just weird).",
+    "Writer": "Rian Johnson",
+    "Music": "John Williams",
+    "Cinematography": "Steve Yedlin",
+    "CostumeDesign": "Michael Kaplan",
+    "Cast": "Mark Hamill, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels, Gwendoline Christie, Kelly Marie Tran, Laura Dern, Benicio Del Toro, Billie Lourd, Justin Theroux,"
   },
   {
     "ID": "Step_Up_2006",
@@ -6241,11 +6241,11 @@
     "Runtime": 116,
     "Genre": "Drama, Crime",
     "Summary": "Like I, Tonya on first watch this is a solid movie. I believe this to be even better on the second watch. At the cinema the sound is incredible. The acting is next level and Jodie Comer will not win or even be nominated for this even though she deserves it so much. Her time will come.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Jeff Nichols",
+    "Music": "David Wingo",
+    "Cinematography": "Adam Stone",
+    "CostumeDesign": "Erin Benach",
+    "Cast": "Austin Butler, Jodie Comer, Tom Hardy, Michael Shannon, Mike Faist, Norman Reedus"
   },
   {
     "ID": "The_Breakfast_Club_1985",
@@ -6395,11 +6395,11 @@
     "Runtime": 102,
     "Genre": "Drama, Thriller",
     "Summary": "A slow-burner that has become more important with just the span of a year. A world where we are facing floods everywhere is not too far in the future and even here. A young mother incredibly well portrayed by Jodie Comer and so many metaphors that you can't even catch all of them on the first go. The visuals of this movie are insane on the big screen and one aspect that cannot be overlooked is the beautiful friendship between Katherine Waterston and Jodie Comer.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Alice Birch",
+    "Music": "Anna Meredith",
+    "Cinematography": "Suzie Lavelle",
+    "CostumeDesign": "PC Williams",
+    "Cast": "Jodie Comer, Joel Fry, Nina Sosanya, Mark Strong, Katherine Waterston, Benedict Cumberbatch, Gina McKee, Ramanique Ahluwalia"
   },
   {
     "ID": "The_Farewell_2019",
@@ -6658,12 +6658,12 @@
     "MissingParts": "",
     "Runtime": 140,
     "Genre": "Drama, History, Comedy",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "I went to Müller one day, bought this movie, came home, watched it and was in awe. It is probably one of my favorite movies that I always forget to mention but it is so beautifully made and the cast is just incredible. Bryce Dallas Howard's performance is one of the greatest and the music accompanies the movie so well. You is strong, you is smart, you is important.",
+    "Writer": "Tate Taylor",
+    "Music": "Thomas Newman",
+    "Cinematography": "Stephen Goldblatt",
+    "CostumeDesign": "Sharen Davis",
+    "Cast": "Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer, Jessica Chastain, Allison Janney, Anna Camp, Cicely Tyson, Mike Vogel, Wes Chatham, Brian Kerwin, Sissy Spacek, Aunjanue Ellis-Taylor, Mary Steenburgen, Leslie Jordan"
   },
   {
     "ID": "The_High_Note_2020",
@@ -6769,11 +6769,11 @@
     "Runtime": 137,
     "Genre": "SciFi, Drama, Action",
     "Summary": "My favorite franchise. Yes. The music. The plot. The acting. The book (that I have actually read. Even a bunch of times). The scenery. This list could continue on an on. And this is another movie that I have watched a lot of times because it was in my DVD player and I didn't swap it for weeks.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Gary Ross, Suzanne Collins, Billy Ray",
+    "Music": "James Newton Howard",
+    "Cinematography": "Tom Stern",
+    "CostumeDesign": "Judianna Makovsky",
+    "Cast": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Stanley Tucci, Wes Bentley, Willow Shields, Elizabeth Banks, Toby Jones, Dayo Okeniyi, Lenny Kravitz, Leven Rambin, Jack Quaid, Donald Sutherland, Alexander Ludwig, Isabelle Fuhrman, Amandla Stenberg"
   },
   {
     "ID": "The_Hunger_Games_Catching_Fire_2013",
@@ -6791,11 +6791,11 @@
     "Runtime": 141,
     "Genre": "SciFi, Drama, Action",
     "Summary": "The idea of the arena being a clock has always intrigued me. The introduction of previous winners amongst which we have hotties Sam Claflin and Jenna Malone brings this movie to another level than the first one. A worthy sequel and film to the book that is easily the strongest out of the franchise.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Simon Beaufoy, Michael Arndt",
+    "Music": "James Newton Howard",
+    "Cinematography": "Jo Willems",
+    "CostumeDesign": "Trish Summerville",
+    "Cast": "Jennifer Lawrence, Liam Hemsworth, Woody Harrelson, Josh Hutcherson, Paula Malcomson, Willow Shields, Donald Sutherland, Elizabeth Banks, Lenny Kravitz, Stanley Tucci, Jeffrey Wright, Sam Claflin, Toby Jones, Jena Malone"
   },
   {
     "ID": "The_Hunger_Games_Mockingjay_Part_1_2014",
@@ -6813,11 +6813,11 @@
     "Runtime": 118,
     "Genre": "SciFi, Drama, Action",
     "Summary": "The weakest yet still great movie out of the original series. I liked the claustrophobia you get from this and the propaganda aspect. Even if this movie is the weakest it is still great because it introduces us to the disturbing life and politics of District 13.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Peter Craig, Danny Strong",
+    "Music": "James Newton Howard",
+    "Cinematography": "Jo Willems",
+    "CostumeDesign": "Kurt and Bart",
+    "Cast": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Philip Seymour Hoffman, Julianne Moore, Willow Shields, Sam Claflin, Elizabeth Banks, Mahershala Ali, Jena Malone, Jeffrey Wright, Paula Malcomson, Stanley Tucci, Natalie Dormer, Wes Chatham"
   },
   {
     "ID": "The_Hunger_Games_Mockingjay_Part_2_2015",
@@ -6835,11 +6835,11 @@
     "Runtime": 132,
     "Genre": "SciFi, Drama, Action",
     "Summary": "Welcome to the 76th Hunger Games. More crazy additions to the cast making it even wilder than before. The traps in the capitol and the climax of an awesome franchise that means so much to me. The scenes filmed in Berlin look amazing and knowing I have been to some of those places is even cooler.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Writer": "Peter Craig, Danny Strong",
+    "Music": "James Newton Howard",
+    "Cinematography": "Jo Willems",
+    "CostumeDesign": "Kurt and Bart",
+    "Cast": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Philip Seymour Hoffman, Julianne Moore, Willow Shields, Sam Claflin, Elizabeth Banks, Mahershala Ali, Jena Malone, Jeffrey Wright, Paula Malcomson, Stanley Tucci, Nathalie Dormer, Wes Chatham, Gwendoline Christie"
   },
   {
     "ID": "The_Huntsman_Winters_War_2016",
@@ -6989,11 +6989,11 @@
     "Runtime": 152,
     "Genre": "Epic, Drama, History",
     "Summary": "This might not be everyone's cup of tea but if you are up to see the subtle changes in Jodie Comer's performance depending on which person the story is telling this is an absolute masterpiece of directing and acting and deserved more recognition.",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": "Jodie Comer"
+    "Writer": "Nicole Holofcener, Ben Affleck, Matt Damon",
+    "Music": "Harry Gregson-Williams",
+    "Cinematography": "Dariusz Wolski",
+    "CostumeDesign": "Janty Yates",
+    "Cast": "Matt Damon, Adam Driver, Jodie Comer, Harriet Walter, Ben Affleck, Alex Lawther"
   },
   {
     "ID": "The_Last_King_of_Scotland_2007",
@@ -7450,12 +7450,12 @@
     "MissingParts": "",
     "Runtime": 60,
     "Genre": "History, Epic, Drama",
-    "Summary": "",
-    "Writer": "",
-    "Music": "",
-    "Cinematography": "",
-    "CostumeDesign": "",
-    "Cast": ""
+    "Summary": "The way Elizabeth starts out as the loyal daughter who will fight for the Tudors to get them back and ends up putting herself first everywhere and being loyal to Henry is wilde. It's a slow interpolation that you don't notice at first but in the end you find yourself thinking \"Damn when did this happen?\".",
+    "Writer": "Emma Frost",
+    "Music": "John Lunn",
+    "Cinematography": "Chris Seager",
+    "CostumeDesign": "Phoebe De Gaye",
+    "Cast": "Jodie Comer, Rebecca Benson, Jacob Collins-Levy, Richard Dillane, Michelle Fairley, Kenneth Cranham, Nicholas Audsley"
   },
   {
     "ID": "The_Zookeepers_Wife_2017",

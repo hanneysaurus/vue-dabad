@@ -20,12 +20,25 @@
         <div class="summary">
           <p><i>{{ media.Summary }}</i></p>
         </div>
-        <p class="cast">{{ media.Cast }}</p>
-        <p class="cinematographer">{{ media.Cinematography }}</p>
-        <p class="music">{{ media.Music }}</p>
-        <p class="costumedesign">{{ media.CostumeDesign }}</p>
         <div class="genres">
           <GenreToken v-for="g in genres" :genre="g"/>
+        </div>
+        <div class="cast-crew">
+          <div class="music" v-if="media.Music">
+            <img src="/assets/icons/music.png" alt="music by"/>
+            <p>{{ media.Music }}</p>
+          </div>
+          <div class="cinematography" v-if="media.Cinematography">
+            <img src="/assets/icons/camera.png" alt="cinematography by"/>
+            <p>{{ media.Cinematography }}</p>
+          </div>
+          <div class="costumedesign" v-if="media.CostumeDesign">
+            <img src="/assets/icons/costume.png" alt="costumedesign by"/>
+            <p>{{ media.CostumeDesign }}</p>
+          </div>
+          <div class="cast" v-if="media.Cast">
+            <p> <b>Cast</b> <br/> {{ media.Cast }}</p>
+          </div>
         </div>
       </div>
       <div class="poster-container">
@@ -101,8 +114,6 @@ definePageMeta({
 </script>
 
 
-
-
 <style lang="scss" scoped>
 
 .detail-page {
@@ -121,6 +132,7 @@ definePageMeta({
 
     .overview {
       width: 600px;
+
       .title {
         font-weight: bold;
         font-size: 30px;
@@ -156,6 +168,7 @@ definePageMeta({
         padding: 5px;
         outline: black solid 2px;
         outline-offset: 5px;
+        margin: 0 0 20px 0;
 
         overflow-y: scroll;
         scroll-behavior: smooth;
@@ -169,6 +182,50 @@ definePageMeta({
       .genres {
         display: flex;
         flex-direction: row;
+        margin: 0 0 20px 0;
+      }
+
+      .cast-crew {
+        display: flex;
+        flex-direction: column;
+
+        img {
+          width: 20px;
+          height: 20px;
+          align-self: center;
+          margin: 0 5px 0 0;
+        }
+
+        p {
+          margin: 10px 0;
+        }
+
+        .music {
+          display: flex;
+          flex-direction: row;
+        }
+
+        .cinematography {
+          display: flex;
+          flex-direction: row;
+        }
+
+        .costumedesign {
+          display: flex;
+          flex-direction: row;
+        }
+
+        .cast {
+          background: lightgrey;
+          margin: 10px 20px 0 20px;
+          border-radius: 10px;
+          text-align: justify;
+
+          p {
+            margin: 15px;
+          }
+        }
+
       }
 
     }
@@ -190,9 +247,11 @@ definePageMeta({
 
   .franchise-info {
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    align-self: center;
 
     .franchise-completion {
+      margin: 20px 0 0 5px;
       p {
         margin: 0;
       }
@@ -201,6 +260,7 @@ definePageMeta({
     .franchise-links {
       display: flex;
       flex-direction: row;
+      justify-content: center;
 
       .prequels,
       .sequels {
