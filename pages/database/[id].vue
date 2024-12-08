@@ -14,6 +14,7 @@
             <p>watched:</p>
             <input type="checkbox" :checked="media.Watched === 'YES'" disabled>
           </div>
+          <img class="additional-info" v-if="media.AdditionalInfo" src="/assets/icons/info.png" :title="`${media.AdditionalInfo}`" alt="additional Info: {{media.AdditionalInfo}}"/>
         </div>
         <p class="director"><b>directed by</b> {{ media.Director }}</p>
         <p class="writer"><u>written by</u> {{ media.Writer }}</p>
@@ -159,7 +160,14 @@ definePageMeta({
         .watched {
           display: flex;
           flex-direction: row;
-          margin: 0 0 0 60px;
+          margin: 0 0 0 50px;
+        }
+
+        .additional-info {
+          width: 20px;
+          height: 20px;
+          align-self: center;
+          margin: 0 0 0 25px;
         }
       }
 
