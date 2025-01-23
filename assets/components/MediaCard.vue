@@ -71,7 +71,7 @@ a {
 
     .overflow .title {
       transform: translateX(calc(var(--title-length) * -1));
-      transition: transform var(--title-animation-time);
+      transition: transform var(--title-animation-time) ease-in;
     }
   }
 
