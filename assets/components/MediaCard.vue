@@ -2,7 +2,7 @@
   <NuxtLink :to="`/database/${props.media.ID}`" @mouseenter="checkOverflow(props.index)">
     <div class="media-card">
       <div class="preview-container">
-        <img :alt="`${getImageID(props.media.Title)}`" :src="`/images/${getImageID(props.media.Title)}`" class="preview"/>
+        <img :alt="`${getImageID(props.media.Title)}`" :src="`/images/${getImageID(props.media.Title)}`" loading="eager" class="preview"/>
       </div>
       <div :ref="el => setTextContainerRefs(el, index)" class="text-container" :class="{overflow: isOverflowing}">
         <p class="title">{{ props.media.Title }}</p>
