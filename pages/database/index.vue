@@ -1,5 +1,6 @@
 <template>
-  <h1>Database</h1>
+  <h1>Hanney's DABAD - DVD and BluRay Administrator</h1>
+  <h2>{{moviecount}} movies, {{seriescount}} seasons </h2>
   <div class="search-area">
     <input
         id="search_input"
@@ -70,6 +71,16 @@ definePageMeta({
 
 const data = database;
 const searchQuery = ref();
+const moviecount = computed(() => {
+  return data.filter(media => {
+    return media.Type === "Movie";
+  }).length;
+})
+const seriescount = computed(() => {
+  return data.filter(media => {
+    return media.Type === "Series";
+  }).length;
+})
 
 const filteredData = computed(() => {
   if (!searchQuery.value) {

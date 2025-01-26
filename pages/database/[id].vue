@@ -12,9 +12,12 @@
           <p class="runtime">{{ media.Runtime }} minutes</p>
           <div class="watched">
             <p>watched:</p>
-            <input type="checkbox" :checked="media.Watched === 'YES'" disabled>
+            <input type="checkbox" :checked="media.Watched === 'YES'" > <!--disabled-->
           </div>
-          <img class="additional-info" v-if="media.AdditionalInfo" src="/assets/icons/info.png" :title="`${media.AdditionalInfo}`" alt="additional Info: {{media.AdditionalInfo}}"/>
+          <div class="additional-info" v-if="media.AdditionalInfo">
+            <img class="additional-info-button" src="/assets/icons/info.png" alt="additional Info: {{media.AdditionalInfo}}"/>
+            <p class="additional-info-text">{{media.AdditionalInfo}}</p>
+          </div>
         </div>
         <p class="director"><b>directed by</b> {{ media.Director }}</p>
         <p class="writer"><u>written by</u> {{ media.Writer }}</p>
@@ -161,13 +164,46 @@ definePageMeta({
           display: flex;
           flex-direction: row;
           margin: 0 0 0 50px;
+          align-items: center;
+
+          [type="checkbox"] {
+            width: 20px;
+            height: 20px;
+          }
+
+          pointer-events: none;
         }
 
         .additional-info {
-          width: 20px;
-          height: 20px;
-          align-self: center;
-          margin: 0 0 0 25px;
+          display: flex;
+          flex-direction: row;
+          transition: linear 0.5s;
+
+          .additional-info-button {
+            width: 20px;
+            height: 20px;
+            align-self: center;
+            margin: 0 0 0 25px;
+            cursor: help;
+            opacity: 0.7;
+
+            &:hover {
+              scale: 1.1;
+              opacity: 1;
+              ~ .additional-info-text {
+                display: inline-block;
+              }
+            }
+          }
+
+          .additional-info-text {
+            display: none;
+            color: dodgerblue;
+            font-size: 12px;
+            margin-left: 10px;
+            align-content: center;
+          }
+
         }
       }
 
