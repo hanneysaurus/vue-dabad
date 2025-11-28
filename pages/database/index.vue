@@ -50,7 +50,7 @@
           <input type="text" placeholder="cast and crew"/>
         </div>
       </div>
-      <button class="search-button" @submit="updateSearchQuery">search</button>
+      <button class="search-button" @click="updateSearchQuery">search</button>
     </div>
   </div>
   <div class="database">
@@ -94,7 +94,9 @@ const filteredData = computed(() => {
 });
 
 const updateSearchQuery = (event) => {
+  console.log(event);
   searchQuery.value = event.target.value;
+  console.log(searchQuery);
 };
 
 const showAdvancedSearch = ref(false);
