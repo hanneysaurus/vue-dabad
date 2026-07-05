@@ -12,6 +12,7 @@
   flex-direction: column;
   align-items: center;
   padding: 10px;
+  border-radius: 50px;
 
   background: white;
   color: black;

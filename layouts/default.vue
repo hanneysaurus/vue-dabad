@@ -11,7 +11,7 @@
       <NuxtLink to="/quizzes">Quizzes</NuxtLink>
       <NuxtLink to="/work">Work</NuxtLink>
       <NuxtLink to="/about">About</NuxtLink>
-      <NuxtLink to="/dabad">DABAD</NuxtLink>
+      <ProtectedLink to="/dabad" label="DABAD" />
     </nav>
   </header>
 
@@ -51,4 +51,5 @@
 }
 </style>
 <script setup lang="ts">
+import ProtectedLink from "~/assets/components/ProtectedLink.vue";
 </script>

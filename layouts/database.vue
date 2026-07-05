@@ -7,7 +7,7 @@
         <h1>DABAD</h1>
       </div>
       <nav class="navigation">
-        <NuxtLink :to="to">back to main</NuxtLink>
+        <NuxtLink :to="to">{{backLabel}}</NuxtLink>
       </nav>
     </header>
 
@@ -21,6 +21,7 @@
 <script setup lang="ts">
 const route = useRoute();
 const to = computed(() => route.name === "dabad" ? "/" : "/dabad");
+const backLabel = computed(() => route.name === "dabad" ? "hanneysaurus" : "back");
 </script>
 
 <style scoped>
