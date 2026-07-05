@@ -68,8 +68,8 @@
       <div v-if="media.Franchise === 'YES'" class="franchise-completion">
         <p>This {{ media.Type.toString().toLowerCase() }} is part of a <b>franchise</b>.</p>
         <p v-if="media.FranchiseComplete === 'YES'">This franchise is <u style="color: #03c03c">complete</u> in
-          Hanney's library.&#128522;</p>
-        <p v-if="media.FranchiseComplete === 'NO'">This franchise is <u style="color: orange">incomplete</u> in Hanney's
+          Hannah's library.&#128522;</p>
+        <p v-if="media.FranchiseComplete === 'NO'">This franchise is <u style="color: orange">incomplete</u> in Hannah's
           library.&#128551;<br/> It
           is missing:</p>
         <ul v-if="missingMedia" style="margin: 0">

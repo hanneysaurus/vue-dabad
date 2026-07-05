@@ -4,7 +4,11 @@ body {
     background: #C1121F;
     color: #FDF0D5;
 
-    button {
+    h1 {
+        text-align: center;
+    }
+
+    .button-blue {
         height: inherit;
         align-self: center;
         font-family: inherit;
@@ -24,6 +28,7 @@ body {
     a {
         color: #FDF0D5;
         font-size: 18px;
+        text-underline-offset: 10%;
     }
 }
 
@@ -31,7 +36,7 @@ body {
 https://coolors.co/palette/780000-c1121f-fdf0d5-003049-669bbc
 
 #780000 darkred
-#C1121F red
+#C1121F lightred
 #FDF0D5 beige
 #003049 darkblue
 #669BBC lightblue

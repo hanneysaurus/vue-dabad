@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>What's Up</h1>
+    <h1>Quizzes</h1>
     <ConstructionWork/>
   </div>
 </template>

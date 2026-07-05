@@ -6,6 +6,10 @@
     </div>
     <nav class="navigation">
       <NuxtLink to="/">Home</NuxtLink>
+      <NuxtLink to="/stories">Stories</NuxtLink>
+      <NuxtLink to="/reviews">Reviews</NuxtLink>
+      <NuxtLink to="/quizzes">Quizzes</NuxtLink>
+      <NuxtLink to="/work">Work</NuxtLink>
       <NuxtLink to="/about">About</NuxtLink>
       <NuxtLink to="/dabad">DABAD</NuxtLink>
     </nav>
@@ -15,7 +19,6 @@
     <slot/>
   </div>
 </template>
-
 
 <style scoped>
 .header {
@@ -37,7 +40,9 @@
 
   .navigation {
     display: flex;
+    flex-wrap: wrap;
     gap: 20px;
+    justify-content: end;
   }
 }
 
@@ -45,3 +50,5 @@
   margin: 40px;
 }
 </style>
+<script setup lang="ts">
+</script>
