@@ -1,12 +1,20 @@
-[
-  {
-    "obsessing": "coding this website",
-    "thinking": "my knee (checking with a new doctor this week)",
-    "listening": "Izzy Escobar",
-    "watching": "The Haunting of Hill House and Scarpetta",
-    "eating": "salads (it's really warm outside)",
-    "laughing": ["the internet"],
-    "news": ["Paolini is through to R4 at Wimbledon", "I'm back from vacation", "Catching up on films and series"],
-    "achievements": ["updating this website properly", "properly relaxed for a whole week", "started reading again"]
-  }
-]
+{
+  "obsessing": "coding this website",
+  "thinking": "my knee (checking with a new doctor this week)",
+  "listening": "Izzy Escobar",
+  "watching": "The Haunting of Hill House and Scarpetta",
+  "eating": "salads (it's really warm outside)",
+  "laughing": [
+    "the internet"
+  ],
+  "news": [
+    "Paolini is through to R4 at Wimbledon",
+    "I'm back from vacation",
+    "Catching up on films and series"
+  ],
+  "achievements": [
+    "updating this website properly",
+    "properly relaxed for a whole week",
+    "started reading again"
+  ]
+}

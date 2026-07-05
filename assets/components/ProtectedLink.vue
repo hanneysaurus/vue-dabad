@@ -14,7 +14,7 @@
 
 <script setup>
 import {ref} from "vue";
-import questions from "../../content/securityQuestions.js"
+import questions from "../../content/securityQuestions.json"
 import SecurityModal from "~/assets/components/SecurityModal.vue";
 
 const props = defineProps({
