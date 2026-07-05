@@ -31,10 +31,20 @@
           <option>DVD</option>
           <option>BluRay</option>
         </select>
+        <p>Type: </p>
+        <select v-model="type">
+          <option></option>
+          <option>Film</option>
+          <option>Series</option>
+        </select>
         <div class="runtime-search">
           <p>Runtime: </p>
           <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="from" v-model="runtimeFrom"/>
           <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="to" v-model="runtimeTo"/>
+        </div>
+        <div class="additional-info">
+          <p>Has additional Info</p>
+          <input type="checkbox" v-model="additionalInfo">
         </div>
         <div class="watched">
           <p>Show unwatched only</p>
@@ -46,7 +56,7 @@
         </div>
         <div class="cast-crew">
           <p>Cast & Crew</p>
-          <input type="text" placeholder="cast and crew"/>
+          <input v-model="castAndCrew" type="text" placeholder="cast and crew"/>
         </div>
       </div>
     </div>
@@ -83,28 +93,48 @@ const seriescount = computed(() => {
 const title = ref("");
 const genre = ref("");
 const medium = ref("");
+const type = ref("");
+const additionalInfo = ref(false);
 const unwatched = ref(false);
 const franchise = ref(false);
 const runtimeFrom = ref();
 const runtimeTo = ref();
+const castAndCrew = ref("");
 
 const filteredData = computed(() => {
   return data.filter(media => {
     const mediaTitle = media.Title.toString().toLowerCase();
     const mediaGenre = media.Genre;
     const mediaMedium = media.Medium;
+    const mediaType = media.Type;
+    const mediaAdditionalInfo = media.AdditionalInfo !== '';
     const mediaUnwatched = media.Watched === "NO";
     const mediaFranchise = media.Franchise === "YES";
     const mediaRuntime = Number(media.Runtime);
+    const mediaDirector = media.Director.toString().toLowerCase();
+    const mediaWriter = media.Writer.toString().toLowerCase();
+    const mediaMusic = media.Music.toString().toLowerCase();
+    const mediaCinematography = media.Cinematography.toString().toLowerCase();
+    const mediaCostume = media.CostumeDesign.toString().toLowerCase();
+    const mediaCast = media.Cast.toString().toLowerCase();
 
     return (
         mediaTitle.includes(title.value.toString().toLowerCase()) &&
         (!medium.value || mediaMedium === medium.value) &&
+        (!type.value || mediaType === type.value) &&
         (!genre.value || mediaGenre.includes(genre.value)) &&
         (!unwatched.value || mediaUnwatched) &&
+        (!additionalInfo.value || mediaAdditionalInfo) &&
         (!franchise.value || mediaFranchise) &&
         (!runtimeFrom.value || mediaRuntime >= Number(runtimeFrom.value)) &&
-        (!runtimeTo.value || mediaRuntime <= Number(runtimeTo.value))
+        (!runtimeTo.value || mediaRuntime <= Number(runtimeTo.value)) &&
+
+        ((!castAndCrew.value || mediaDirector.includes(castAndCrew.value.toString().toLowerCase())) ||
+            (!castAndCrew.value || mediaWriter.includes(castAndCrew.value.toString().toLowerCase())) ||
+            (!castAndCrew.value || mediaMusic.includes(castAndCrew.value.toString().toLowerCase())) ||
+            (!castAndCrew.value || mediaCinematography.includes(castAndCrew.value.toString().toLowerCase())) ||
+            (!castAndCrew.value || mediaCostume.includes(castAndCrew.value.toString().toLowerCase())) ||
+            (!castAndCrew.value || mediaCast.includes(castAndCrew.value.toString().toLowerCase())))
     );
   });
 });
