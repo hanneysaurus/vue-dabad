@@ -1,7 +1,7 @@
 [
  {
    "ID": "Mollys_Game_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Molly's Game",
    "Year": 2017,
@@ -24,7 +24,7 @@
  },
  {
    "ID": "Memoir_of_a_Snail_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Memoir of a Snail",
    "Year": 2024,
@@ -47,7 +47,7 @@
  },
  {
    "ID": "Vice_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Vice",
    "Year": 2018,
@@ -70,7 +70,7 @@
  },
  {
    "ID": "Birdman_or_The_Unexpected_Virtue_of_Ignorance_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
    "Year": 2014,
@@ -93,7 +93,7 @@
  },
  {
    "ID": "Ex_Machina_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ex Machina",
    "Year": 2014,
@@ -116,7 +116,7 @@
  },
  {
    "ID": "Annihilation_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Annihilation",
    "Year": 2018,
@@ -139,7 +139,7 @@
  },
  {
    "ID": "About_Schmidt_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "About Schmidt",
    "Year": 2002,
@@ -162,7 +162,7 @@
  },
  {
    "ID": "The_Holdovers_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Holdovers",
    "Year": 2023,
@@ -185,7 +185,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Prisoner_of_Azkaban_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Prisoner of Azkaban",
    "Year": 2004,
@@ -208,7 +208,7 @@
  },
  {
    "ID": "Gravity_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Gravity",
    "Year": 2013,
@@ -231,7 +231,7 @@
  },
  {
    "ID": "Suspicion_1941",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Suspicion",
    "Year": 1941,
@@ -254,7 +254,7 @@
  },
  {
    "ID": "The_Apprentice_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Apprentice",
    "Year": 2024,
@@ -277,7 +277,7 @@
  },
  {
    "ID": "Sanctum_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sanctum",
    "Year": 2011,
@@ -300,7 +300,7 @@
  },
  {
    "ID": "A_Girl_Walks_Home_Alone_At_Night_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "A Girl Walks Home Alone At Night",
    "Year": 2014,
@@ -323,7 +323,7 @@
  },
  {
    "ID": "In_Time_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "In Time",
    "Year": 2011,
@@ -346,7 +346,7 @@
  },
  {
    "ID": "Fools_Gold_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fool's Gold",
    "Year": 2008,
@@ -369,7 +369,7 @@
  },
  {
    "ID": "Brokeback_Mountain_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Brokeback Mountain",
    "Year": 2005,
@@ -392,7 +392,7 @@
  },
  {
    "ID": "Life_of_Pi_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Life of Pi",
    "Year": 2012,
@@ -415,7 +415,7 @@
  },
  {
    "ID": "Step_Up_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Step Up",
    "Year": 2006,
@@ -438,7 +438,7 @@
  },
  {
    "ID": "The_English_Patient_1996",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The English Patient",
    "Year": 1996,
@@ -461,7 +461,7 @@
  },
  {
    "ID": "Captain_America_The_Winter_Soldier_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Captain America: The Winter Soldier",
    "Year": 2014,
@@ -484,7 +484,7 @@
  },
  {
    "ID": "Hereditary_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Hereditary",
    "Year": 2018,
@@ -507,7 +507,7 @@
  },
  {
    "ID": "Who_Am_I_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Who Am I",
    "Year": 2014,
@@ -530,7 +530,7 @@
  },
  {
    "ID": "Australia_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Australia",
    "Year": 2008,
@@ -553,7 +553,7 @@
  },
  {
    "ID": "Argo_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Argo",
    "Year": 2012,
@@ -576,7 +576,7 @@
  },
  {
    "ID": "The_Secret_Life_Of_Walter_Mitty_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Secret Life of Walter Mitty",
    "Year": 2013,
@@ -599,7 +599,7 @@
  },
  {
    "ID": "Capote_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Capote",
    "Year": 2005,
@@ -622,7 +622,7 @@
  },
  {
    "ID": "The_Last_Emperor_1987",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Last Emperor",
    "Year": 1987,
@@ -645,7 +645,7 @@
  },
  {
    "ID": "Beauty_and_the_Beast_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Beauty and the Beast",
    "Year": 2017,
@@ -668,7 +668,7 @@
  },
  {
    "ID": "Sister_Act_2_Back_in_the_Habit_1993",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sister Act 2: Back in the Habit",
    "Year": 1993,
@@ -691,7 +691,7 @@
  },
  {
    "ID": "SpiderMan_Into_the_SpiderVerse_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spider-Man: Into the Spider-Verse",
    "Year": 2018,
@@ -714,7 +714,7 @@
  },
  {
    "ID": "Parasite_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Parasite",
    "Year": 2019,
@@ -737,7 +737,7 @@
  },
  {
    "ID": "Fack_Ju_Göhte_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fack Ju Göhte",
    "Year": 2013,
@@ -760,7 +760,7 @@
  },
  {
    "ID": "Fack_Ju_Göhte_2_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fack Ju Göhte 2",
    "Year": 2015,
@@ -783,7 +783,7 @@
  },
  {
    "ID": "Fack_Ju_Göhte_3_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fack Ju Göhte 3",
    "Year": 2017,
@@ -806,7 +806,7 @@
  },
  {
    "ID": "Ratatouille_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ratatouille",
    "Year": 2007,
@@ -829,7 +829,7 @@
  },
  {
    "ID": "Journey_2_The_Mysterious_Island_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Journey 2: The Mysterious Island",
    "Year": 2012,
@@ -852,7 +852,7 @@
  },
  {
    "ID": "Vox_Lux_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Vox Lux",
    "Year": 2018,
@@ -875,7 +875,7 @@
  },
  {
    "ID": "XMen_The_Last_Stand_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men: The Last Stand",
    "Year": 2006,
@@ -898,7 +898,7 @@
  },
  {
    "ID": "XMen_2000",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men",
    "Year": 2000,
@@ -921,7 +921,7 @@
  },
  {
    "ID": "XMen_United_2003",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men United",
    "Year": 2003,
@@ -944,7 +944,7 @@
  },
  {
    "ID": "Valkyrie_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Valkyrie",
    "Year": 2008,
@@ -967,7 +967,7 @@
  },
  {
    "ID": "XMen_Days_of_Future_Past_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men: Days of Future Past",
    "Year": 2014,
@@ -990,7 +990,7 @@
  },
  {
    "ID": "XMen_Apocalypse_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men: Apocalypse",
    "Year": 2016,
@@ -1013,7 +1013,7 @@
  },
  {
    "ID": "Bohemian_Rhapsody_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bohemian Rhapsody",
    "Year": 2018,
@@ -1036,7 +1036,7 @@
  },
  {
    "ID": "Pride_and_Prejudice_and_Zombies_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pride and Prejudice and Zombies",
    "Year": 2016,
@@ -1059,7 +1059,7 @@
  },
  {
    "ID": "Zootopia_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Zootopia",
    "Year": 2016,
@@ -1082,7 +1082,7 @@
  },
  {
    "ID": "Birds_Of_Prey_And_the_Fantabulous_Emancipation_of_One_Harley_Quinn_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Birds Of Prey (And the Fantabulous Emancipation of One Harley Quinn)",
    "Year": 2020,
@@ -1105,7 +1105,7 @@
  },
  {
    "ID": "The_Huntsman_Winters_War_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Huntsman: Winter's War",
    "Year": 2016,
@@ -1128,7 +1128,7 @@
  },
  {
    "ID": "Past_Lives_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Past Lives",
    "Year": 2023,
@@ -1151,7 +1151,7 @@
  },
  {
    "ID": "John_Wick_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "John Wick",
    "Year": 2014,
@@ -1174,7 +1174,7 @@
  },
  {
    "ID": "John_Wick_Chapter_2_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "John Wick: Chapter 2",
    "Year": 2017,
@@ -1197,7 +1197,7 @@
  },
  {
    "ID": "John_Wick_Chapter_3_Parabellum_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "John Wick: Chapter 3 - Parabellum",
    "Year": 2019,
@@ -1220,7 +1220,7 @@
  },
  {
    "ID": "Eternals_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Eternals",
    "Year": 2021,
@@ -1243,7 +1243,7 @@
  },
  {
    "ID": "The_Hustle_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hustle",
    "Year": 2019,
@@ -1266,7 +1266,7 @@
  },
  {
    "ID": "Frozen_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Frozen",
    "Year": 2013,
@@ -1289,7 +1289,7 @@
  },
  {
    "ID": "Frozen_II_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Frozen II",
    "Year": 2019,
@@ -1312,7 +1312,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Philosophers_Stone_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Philosopher's Stone",
    "Year": 2001,
@@ -1335,7 +1335,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Chamber_of_Secrets_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Chamber of Secrets",
    "Year": 2002,
@@ -1358,7 +1358,7 @@
  },
  {
    "ID": "Percy_Jackson_and_the_Olympians_The_Lightning_Thief_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Percy Jackson & the Olympians: The Lightning Thief",
    "Year": 2010,
@@ -1381,7 +1381,7 @@
  },
  {
    "ID": "Miss_Potter_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Miss Potter",
    "Year": 2006,
@@ -1404,7 +1404,7 @@
  },
  {
    "ID": "The_Wild_Robot_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Wild Robot",
    "Year": 2024,
@@ -1427,7 +1427,7 @@
  },
  {
    "ID": "Mortal_Engines_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mortal Engines",
    "Year": 2018,
@@ -1450,7 +1450,7 @@
  },
  {
    "ID": "Mission_Impossible_Rogue_Nation_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mission: Impossible - Rogue Nation",
    "Year": 2015,
@@ -1473,7 +1473,7 @@
  },
  {
    "ID": "Mission_Impossible_Fallout_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mission: Impossible - Fallout",
    "Year": 2018,
@@ -1496,7 +1496,7 @@
  },
  {
    "ID": "Batman_Begins_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Batman Begins",
    "Year": 2005,
@@ -1519,7 +1519,7 @@
  },
  {
    "ID": "The_Dark_Knight_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Dark Knight",
    "Year": 2008,
@@ -1542,7 +1542,7 @@
  },
  {
    "ID": "Inception_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Inception",
    "Year": 2010,
@@ -1565,7 +1565,7 @@
  },
  {
    "ID": "The_Dark_Knight_Rises_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Dark Knight Rises",
    "Year": 2012,
@@ -1588,7 +1588,7 @@
  },
  {
    "ID": "Interstellar_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Interstellar",
    "Year": 2014,
@@ -1611,7 +1611,7 @@
  },
  {
    "ID": "Tenet_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Tenet",
    "Year": 2020,
@@ -1634,7 +1634,7 @@
  },
  {
    "ID": "Ophelia_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ophelia",
    "Year": 2018,
@@ -1657,7 +1657,7 @@
  },
  {
    "ID": "Happiest_Season_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Happiest Season",
    "Year": 2020,
@@ -1680,7 +1680,7 @@
  },
  {
    "ID": "Million_Dollar_Baby_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Million Dollar Baby",
    "Year": 2004,
@@ -1703,7 +1703,7 @@
  },
  {
    "ID": "Richard_Jewell_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Richard Jewell",
    "Year": 2019,
@@ -1726,7 +1726,7 @@
  },
  {
    "ID": "Cloudy_with_a_Chance_of_Meatballs_2_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Cloudy with a Chance of Meatballs 2",
    "Year": 2013,
@@ -1749,7 +1749,7 @@
  },
  {
    "ID": "Jurassic_World_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jurassic World",
    "Year": 2015,
@@ -1772,7 +1772,7 @@
  },
  {
    "ID": "Jurassic_World_Dominion_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Jurassic World: Dominion",
    "Year": 2022,
@@ -1795,7 +1795,7 @@
  },
  {
    "ID": "I_Tonya_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "I, Tonya",
    "Year": 2017,
@@ -1818,7 +1818,7 @@
  },
  {
    "ID": "Z_for_Zachariah_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Z for Zachariah",
    "Year": 2015,
@@ -1841,7 +1841,7 @@
  },
  {
    "ID": "Whiplash_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Whiplash",
    "Year": 2014,
@@ -1864,7 +1864,7 @@
  },
  {
    "ID": "La_La_Land_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay, DVD",
    "Title": "La La Land",
    "Year": 2016,
@@ -1887,7 +1887,7 @@
  },
  {
    "ID": "First_Man_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "First Man",
    "Year": 2018,
@@ -1910,7 +1910,7 @@
  },
  {
    "ID": "Babylon_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Babylon",
    "Year": 2022,
@@ -1933,7 +1933,7 @@
  },
  {
    "ID": "Everything_Everywhere_All_At_Once_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Everything Everywhere All At Once",
    "Year": 2022,
@@ -1956,7 +1956,7 @@
  },
  {
    "ID": "Monsters_University_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Monsters University",
    "Year": 2013,
@@ -1979,7 +1979,7 @@
  },
  {
    "ID": "Safe_House_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Safe House",
    "Year": 2012,
@@ -2002,7 +2002,7 @@
  },
  {
    "ID": "Imperium_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Imperium",
    "Year": 2016,
@@ -2025,7 +2025,7 @@
  },
  {
    "ID": "The_Whale_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Whale",
    "Year": 2022,
@@ -2048,7 +2048,7 @@
  },
  {
    "ID": "The_Hound_of_the_Baskervilles_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hound of the Baskervilles",
    "Year": 2002,
@@ -2071,7 +2071,7 @@
  },
  {
    "ID": "Street_Kings_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Street Kings",
    "Year": 2008,
@@ -2094,7 +2094,7 @@
  },
  {
    "ID": "Suicide_Squad_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Suicide Squad",
    "Year": 2016,
@@ -2117,7 +2117,7 @@
  },
  {
    "ID": "Diary_of_a_Wimpy_Kid_Rodrick_Rules_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Diary of a Wimpy Kid: Rodrick Rules",
    "Year": 2011,
@@ -2140,7 +2140,7 @@
  },
  {
    "ID": "Diary_of_a_Wimpy_Kid_Dog_Days_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Diary of a Wimpy Kid: Dog Days",
    "Year": 2012,
@@ -2163,7 +2163,7 @@
  },
  {
    "ID": "The_Curious_Case_of_Benjamin_Button_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Curious Case of Benjamin Button",
    "Year": 2009,
@@ -2186,7 +2186,7 @@
  },
  {
    "ID": "Gone_Girl_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Gone Girl",
    "Year": 2014,
@@ -2209,7 +2209,7 @@
  },
  {
    "ID": "Stronger_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Stronger",
    "Year": 2017,
@@ -2232,7 +2232,7 @@
  },
  {
    "ID": "The_Fall_Guy_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Fall Guy",
    "Year": 2024,
@@ -2255,7 +2255,7 @@
  },
  {
    "ID": "The_Fighter_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Fighter",
    "Year": 2010,
@@ -2278,7 +2278,7 @@
  },
  {
    "ID": "The_Simpsons_Movie_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Simpsons Movie",
    "Year": 2007,
@@ -2301,7 +2301,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Order_of_the_Pheonix_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Order of the Pheonix",
    "Year": 2007,
@@ -2324,7 +2324,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_HalfBlood_Prince_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Half-Blood Prince",
    "Year": 2009,
@@ -2347,7 +2347,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Deathly_Hallows_Part_1_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Deathly Hallows - Part 1",
    "Year": 2010,
@@ -2370,7 +2370,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Deathly_Hallows_Part_2_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Deathly Hallows - Part 2",
    "Year": 2011,
@@ -2393,7 +2393,7 @@
  },
  {
    "ID": "Fantastic_Beasts_and_Where_to_Find_Them_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fantastic Beasts and Where to Find Them",
    "Year": 2016,
@@ -2416,7 +2416,7 @@
  },
  {
    "ID": "The_Legend_of_Tarzan_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Legend of Tarzan",
    "Year": 2016,
@@ -2439,7 +2439,7 @@
  },
  {
    "ID": "Fantastic_Beasts_Crimes_of_Grindelwald_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fantastic Beasts: Crimes of Grindelwald",
    "Year": 2018,
@@ -2462,7 +2462,7 @@
  },
  {
    "ID": "Marcel_The_Shell_With_Shoes_On_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Marcel the Shell with Shoes on",
    "Year": 2021,
@@ -2485,7 +2485,7 @@
  },
  {
    "ID": "Project_Almanac_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Project Almanac",
    "Year": 2015,
@@ -2508,7 +2508,7 @@
  },
  {
    "ID": "Sicario_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sicario",
    "Year": 2015,
@@ -2531,7 +2531,7 @@
  },
  {
    "ID": "Arrival_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay, DVD",
    "Title": "Arrival",
    "Year": 2016,
@@ -2554,7 +2554,7 @@
  },
  {
    "ID": "Dune_Part_One_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Dune: Part One",
    "Year": 2021,
@@ -2577,7 +2577,7 @@
  },
  {
    "ID": "Dune_Part_Two_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Dune: Part Two",
    "Year": 2024,
@@ -2600,7 +2600,7 @@
  },
  {
    "ID": "The_Place_Beyond_The_Pines_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Place Beyond the Pines",
    "Year": 2012,
@@ -2623,7 +2623,7 @@
  },
  {
    "ID": "The_Light_Between_Oceans_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Light Between Oceans",
    "Year": 2016,
@@ -2646,7 +2646,7 @@
  },
  {
    "ID": "Short_Term_12_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Short Term 12",
    "Year": 2013,
@@ -2669,7 +2669,7 @@
  },
  {
    "ID": "Eddie_the_Eagle_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Eddie the Eagle",
    "Year": 2015,
@@ -2692,7 +2692,7 @@
  },
  {
    "ID": "Rocketman_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Rocketman",
    "Year": 2019,
@@ -2715,7 +2715,7 @@
  },
  {
    "ID": "Escape_from_the_Planet_of_the_Apes_1971",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Escape from the Planet of the Apes",
    "Year": 1971,
@@ -2738,7 +2738,7 @@
  },
  {
    "ID": "Miss_Congeniality_2000",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Miss Congeniality",
    "Year": 2000,
@@ -2761,7 +2761,7 @@
  },
  {
    "ID": "Jumper_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jumper",
    "Year": 2008,
@@ -2784,7 +2784,7 @@
  },
  {
    "ID": "The_Edge_of_Tomorrow_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Edge of Tomorrow",
    "Year": 2014,
@@ -2807,7 +2807,7 @@
  },
  {
    "ID": "Bad_Times_at_the_El_Royale_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bad Times at the El Royale",
    "Year": 2018,
@@ -2830,7 +2830,7 @@
  },
  {
    "ID": "Baby_Driver_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Baby Driver",
    "Year": 2017,
@@ -2853,7 +2853,7 @@
  },
  {
    "ID": "The_House_with_a_Clock_in_its_Walls_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The House with a Clock in its Walls",
    "Year": 2018,
@@ -2876,7 +2876,7 @@
  },
  {
    "ID": "Pitch_Perfect_2_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pitch Perfect 2",
    "Year": 2015,
@@ -2899,7 +2899,7 @@
  },
  {
    "ID": "Charlies_Angels_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Charlie's Angels",
    "Year": 2019,
@@ -2922,7 +2922,7 @@
  },
  {
    "ID": "Cocaine_Bear_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Cocaine Bear",
    "Year": 2023,
@@ -2945,7 +2945,7 @@
  },
  {
    "ID": "Sister_Act_1992",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sister Act",
    "Year": 1992,
@@ -2968,7 +2968,7 @@
  },
  {
    "ID": "Journey_to_the_Center_of_the_Earth_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Journey to the Center of the Earth",
    "Year": 2008,
@@ -2991,7 +2991,7 @@
  },
  {
    "ID": "Madagascar_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Madagascar",
    "Year": 2005,
@@ -3014,7 +3014,7 @@
  },
  {
    "ID": "Drive_Away_Dolls_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Drive-Away Dolls",
    "Year": 2024,
@@ -3037,7 +3037,7 @@
  },
  {
    "ID": "The_Big_Lebowski_1998",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Big Lebowski",
    "Year": 1998,
@@ -3060,7 +3060,7 @@
  },
  {
    "ID": "True_Grit_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "True Grit",
    "Year": 2010,
@@ -3083,7 +3083,7 @@
  },
  {
    "ID": "Hail_Caesar_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Hail, Caesar!",
    "Year": 2016,
@@ -3106,7 +3106,7 @@
  },
  {
    "ID": "Rumours_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Rumours",
    "Year": 2024,
@@ -3129,7 +3129,7 @@
  },
  {
    "ID": "Water_for_Elephants_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Water for Elephants",
    "Year": 2011,
@@ -3152,7 +3152,7 @@
  },
  {
    "ID": "The_Hunger_Games_Catching_Fire_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hunger Games: Catching Fire",
    "Year": 2013,
@@ -3175,7 +3175,7 @@
  },
  {
    "ID": "The_Hunger_Games_Mockingjay_Part_1_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hunger Games: Mockingjay - Part 1",
    "Year": 2014,
@@ -3198,7 +3198,7 @@
  },
  {
    "ID": "The_Hunger_Games_Mockingjay_Part_2_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hunger Games: Mockingjay - Part 2",
    "Year": 2015,
@@ -3221,7 +3221,7 @@
  },
  {
    "ID": "Red_Sparrow_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Red Sparrow",
    "Year": 2018,
@@ -3244,7 +3244,7 @@
  },
  {
    "ID": "The_Hunger_Games_The_Ballad_Of_Songbirds_and_Snakes_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
    "Year": 2023,
@@ -3267,7 +3267,7 @@
  },
  {
    "ID": "Planet_of_the_Apes_1968",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Planet of the Apes",
    "Year": 1968,
@@ -3290,7 +3290,7 @@
  },
  {
    "ID": "Lion_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Lion",
    "Year": 2016,
@@ -3313,7 +3313,7 @@
  },
  {
    "ID": "Sing_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sing",
    "Year": 2016,
@@ -3336,7 +3336,7 @@
  },
  {
    "ID": "Sing_2_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sing 2",
    "Year": 2021,
@@ -3359,7 +3359,7 @@
  },
  {
    "ID": "Winnie_the_Pooh_A_Very_Merry_Pooh_Year_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Winnie the Pooh: A Very Merry Pooh Year",
    "Year": 2002,
@@ -3382,7 +3382,7 @@
  },
  {
    "ID": "The_Hunger_Games_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hunger Games",
    "Year": 2012,
@@ -3405,7 +3405,7 @@
  },
  {
    "ID": "Oceans_Eight_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Ocean's Eight",
    "Year": 2018,
@@ -3428,7 +3428,7 @@
  },
  {
    "ID": "The_Accountant_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Accountant",
    "Year": 2016,
@@ -3451,7 +3451,7 @@
  },
  {
    "ID": "Mad_Max_Fury_Road_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Mad Max: Fury Road",
    "Year": 2015,
@@ -3474,7 +3474,7 @@
  },
  {
    "ID": "Focus_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Focus",
    "Year": 2015,
@@ -3497,7 +3497,7 @@
  },
  {
    "ID": "Whiskey_Tango_Foxtrot_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Whiskey Tango Foxtrot",
    "Year": 2016,
@@ -3520,7 +3520,7 @@
  },
  {
    "ID": "Pirates_Of_The_Carribbean_The_Curse_Of_The_Black_Pearl_2003",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pirates of the Carribbean: The Curse of the Black Pearl",
    "Year": 2003,
@@ -3543,7 +3543,7 @@
  },
  {
    "ID": "Pirates_Of_The_Carribbean_Dead_Mans_Chest_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pirates of the Carribbean: Dead Man's Chest",
    "Year": 2006,
@@ -3566,7 +3566,7 @@
  },
  {
    "ID": "Pirates_Of_The_Carribbean_At_Worlds_End_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pirates of the Carribbean: At World's End",
    "Year": 2007,
@@ -3589,7 +3589,7 @@
  },
  {
    "ID": "Rango_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Rango",
    "Year": 2011,
@@ -3612,7 +3612,7 @@
  },
  {
    "ID": "The_Outfit_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Outfit",
    "Year": 2022,
@@ -3635,7 +3635,7 @@
  },
  {
    "ID": "The_Addams_Family_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Addams Family",
    "Year": 2019,
@@ -3658,7 +3658,7 @@
  },
  {
    "ID": "The_Addams_Family_2_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Addams Family 2",
    "Year": 2021,
@@ -3681,7 +3681,7 @@
  },
  {
    "ID": "Lady_Bird_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Lady Bird",
    "Year": 2017,
@@ -3704,7 +3704,7 @@
  },
  {
    "ID": "Barbie_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Barbie",
    "Year": 2023,
@@ -3727,7 +3727,7 @@
  },
  {
    "ID": "The_Shape_of_Water_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Shape of Water",
    "Year": 2017,
@@ -3750,7 +3750,7 @@
  },
  {
    "ID": "Good_Will_Hunting_1997",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Good Will Hunting",
    "Year": 1997,
@@ -3773,7 +3773,7 @@
  },
  {
    "ID": "The_Mirror_Crackd_1980",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Mirror Crack'd",
    "Year": 1980,
@@ -3796,7 +3796,7 @@
  },
  {
    "ID": "Evil_Under_the_Sun_1982",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay, DVD",
    "Title": "Evil Under the Sun",
    "Year": 1982,
@@ -3819,7 +3819,7 @@
  },
  {
    "ID": "King_Arthur_Legend_Of_The_Sword_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "King Arthur: Legend of the Sword",
    "Year": 2017,
@@ -3842,7 +3842,7 @@
  },
  {
    "ID": "Aladdin_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Aladdin",
    "Year": 2019,
@@ -3865,7 +3865,7 @@
  },
  {
    "ID": "The_Karate_Kid_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Karate Kid",
    "Year": 2010,
@@ -3888,7 +3888,7 @@
  },
  {
    "ID": "Kikis_Delivery_Service_1989",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Kiki's Delivery Service",
    "Year": 1989,
@@ -3911,7 +3911,7 @@
  },
  {
    "ID": "Nerve_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Nerve",
    "Year": 2016,
@@ -3934,7 +3934,7 @@
  },
  {
    "ID": "Conquest_of_the_Planet_of_the_Apes_1972",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Conquest of the Planet of the Apes",
    "Year": 1972,
@@ -3957,7 +3957,7 @@
  },
  {
    "ID": "Battle_for_the_Planet_of_the_Apes_1973",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Battle for the Planet of the Apes",
    "Year": 1973,
@@ -3980,7 +3980,7 @@
  },
  {
    "ID": "Jurassic_World_Fallen_Kingdom_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Jurassic World: Fallen Kingdom",
    "Year": 2018,
@@ -4003,7 +4003,7 @@
  },
  {
    "ID": "Star_Wars_Episode_VII_The_Force_Awakens_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Star Wars: Episode VII - The Force Awakens",
    "Year": 2015,
@@ -4026,7 +4026,7 @@
  },
  {
    "ID": "Star_Wars_Episode_IX_The_Rise_of_Skywalker_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Star Wars: Episode IX - The Rise of Skywalker",
    "Year": 2019,
@@ -4049,7 +4049,7 @@
  },
  {
    "ID": "Taxi_Teheran_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Taxi Teheran",
    "Year": 2015,
@@ -4072,7 +4072,7 @@
  },
  {
    "ID": "Jumanji_Welcome_to_the_Jungle_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jumanji: Welcome to the Jungle",
    "Year": 2017,
@@ -4095,7 +4095,7 @@
  },
  {
    "ID": "Jumanji_The_Next_Level_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jumanji: The Next Level",
    "Year": 2019,
@@ -4118,7 +4118,7 @@
  },
  {
    "ID": "Titanic_1997",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Titanic",
    "Year": 1997,
@@ -4141,7 +4141,7 @@
  },
  {
    "ID": "Avatar_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Avatar",
    "Year": 2009,
@@ -4164,7 +4164,7 @@
  },
  {
    "ID": "The_Suicide_Squad_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Suicide Squad",
    "Year": 2021,
@@ -4187,7 +4187,7 @@
  },
  {
    "ID": "Superman_2025",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Superman (2025)",
    "Year": 2025,
@@ -4210,7 +4210,7 @@
  },
  {
    "ID": "A_Room_With_A_View_1985",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "A Room with a View",
    "Year": 1985,
@@ -4233,7 +4233,7 @@
  },
  {
    "ID": "The_Aftermath_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Aftermath",
    "Year": 2019,
@@ -4256,7 +4256,7 @@
  },
  {
    "ID": "Walk_The_Line_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Walk the Line",
    "Year": 2005,
@@ -4279,7 +4279,7 @@
  },
  {
    "ID": "The_Theory_of_Everything_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Theory of Everything",
    "Year": 2014,
@@ -4302,7 +4302,7 @@
  },
  {
    "ID": "Aquaman_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Aquaman",
    "Year": 2018,
@@ -4325,7 +4325,7 @@
  },
  {
    "ID": "Pitch_Perfect_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pitch Perfect",
    "Year": 2012,
@@ -4348,7 +4348,7 @@
  },
  {
    "ID": "Up_in_the_Air_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Up in the Air",
    "Year": 2009,
@@ -4371,7 +4371,7 @@
  },
  {
    "ID": "The_Front_Runner_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Front Runner",
    "Year": 2018,
@@ -4394,7 +4394,7 @@
  },
  {
    "ID": "Bombshell_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bombshell",
    "Year": 2019,
@@ -4417,7 +4417,7 @@
  },
  {
    "ID": "Arsene_Lupin_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Arsene Lupin",
    "Year": 2004,
@@ -4440,7 +4440,7 @@
  },
  {
    "ID": "Mud_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mud",
    "Year": 2012,
@@ -4463,7 +4463,7 @@
  },
  {
    "ID": "The_Bikeriders_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Bikeriders",
    "Year": 2024,
@@ -4486,7 +4486,7 @@
  },
  {
    "ID": "National_Lampoons_Christmas_Vacation_1989",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "National Lampoon's Christmas Vacation",
    "Year": 1989,
@@ -4509,7 +4509,7 @@
  },
  {
    "ID": "West_Side_Story_1961",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "West Side Story",
    "Year": 2023,
@@ -4532,7 +4532,7 @@
  },
  {
    "ID": "Rat_Race_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Rat Race",
    "Year": 2001,
@@ -4555,7 +4555,7 @@
  },
  {
    "ID": "A_Real_Pain_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "A Real Pain",
    "Year": 2024,
@@ -4578,7 +4578,7 @@
  },
  {
    "ID": "Die_Wilden_Kerle_Alles_ist_gut_solange_du_wild_bist_2003",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Die Wilden Kerle: Alles ist gut, solange du wild bist!",
    "Year": 2003,
@@ -4601,7 +4601,7 @@
  },
  {
    "ID": "Jurassic_Park_III_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jurassic Park III",
    "Year": 2001,
@@ -4624,7 +4624,7 @@
  },
  {
    "ID": "Christmas_With_The_Kranks_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Christmas with the Kranks",
    "Year": 2004,
@@ -4647,7 +4647,7 @@
  },
  {
    "ID": "Atonement_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Atonement",
    "Year": 2007,
@@ -4670,7 +4670,7 @@
  },
  {
    "ID": "Hanna_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Hanna",
    "Year": 2011,
@@ -4693,7 +4693,7 @@
  },
  {
    "ID": "Pride_And_Prejudice_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pride & Prejudice",
    "Year": 2005,
@@ -4716,7 +4716,7 @@
  },
  {
    "ID": "Brooklyn_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Brooklyn",
    "Year": 2015,
@@ -4739,7 +4739,7 @@
  },
  {
    "ID": "Rocky_1976",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Rocky",
    "Year": 1976,
@@ -4762,7 +4762,7 @@
  },
  {
    "ID": "Death_on_the_Nile_1978",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay, DVD",
    "Title": "Death on the Nile",
    "Year": 1978,
@@ -4785,7 +4785,7 @@
  },
  {
    "ID": "The_Breakfast_Club_1985",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Breakfast Club",
    "Year": 1985,
@@ -4808,7 +4808,7 @@
  },
  {
    "ID": "Planes_Trains_and_Automobiles_1987",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Planes, Trains & Automobiles",
    "Year": 1987,
@@ -4831,7 +4831,7 @@
  },
  {
    "ID": "A_Quiet_Place_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "A Quiet Place",
    "Year": 2018,
@@ -4854,7 +4854,7 @@
  },
  {
    "ID": "A_Quiet_Place_Part_II_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "A Quiet Place Part II",
    "Year": 2020,
@@ -4877,7 +4877,7 @@
  },
  {
    "ID": "Toy_Story_1995",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Toy Story",
    "Year": 1995,
@@ -4900,7 +4900,7 @@
  },
  {
    "ID": "Toy_Story_2_1999",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Toy Story 2",
    "Year": 1999,
@@ -4923,7 +4923,7 @@
  },
  {
    "ID": "The_Second_Best_Exotic_Marigold_Hotel_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Second Best Exotic Marigold Hotel",
    "Year": 2015,
@@ -4946,7 +4946,7 @@
  },
  {
    "ID": "Miss_Sloane_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Miss Sloane",
    "Year": 2016,
@@ -4969,7 +4969,7 @@
  },
  {
    "ID": "Operation_Mincemeat_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Operation Mincemeat",
    "Year": 2021,
@@ -4992,7 +4992,7 @@
  },
  {
    "ID": "Miss_Congeniality_2_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Miss Congeniality 2",
    "Year": 2005,
@@ -5015,7 +5015,7 @@
  },
  {
    "ID": "Doubt_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Doubt",
    "Year": 2008,
@@ -5038,7 +5038,7 @@
  },
  {
    "ID": "Cowboys_And_Aliens_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Cowboys & Aliens",
    "Year": 2011,
@@ -5061,7 +5061,7 @@
  },
  {
    "ID": "Step_Up_2_the_Streets_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Step Up 2 the Streets",
    "Year": 2008,
@@ -5084,7 +5084,7 @@
  },
  {
    "ID": "Step_Up_3D_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Step Up 3D",
    "Year": 2010,
@@ -5107,7 +5107,7 @@
  },
  {
    "ID": "Now_You_See_Me_2_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Now You See Me 2",
    "Year": 2016,
@@ -5130,7 +5130,7 @@
  },
  {
    "ID": "Crazy_Rich_Asians_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Crazy Rich Asians",
    "Year": 2018,
@@ -5153,7 +5153,7 @@
  },
  {
    "ID": "SpiderMan_Homecoming_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spider-Man: Homecoming",
    "Year": 2017,
@@ -5176,7 +5176,7 @@
  },
  {
    "ID": "Little_Miss_Sunshine_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Little Miss Sunshine",
    "Year": 2006,
@@ -5199,7 +5199,7 @@
  },
  {
    "ID": "Battle_of_the_Sexes_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Battle of the Sexes",
    "Year": 2017,
@@ -5222,7 +5222,7 @@
  },
  {
    "ID": "The_Zone_Of_Interest_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Zone of Interest",
    "Year": 2023,
@@ -5245,7 +5245,7 @@
  },
  {
    "ID": "Clue_1985",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Clue",
    "Year": 1985,
@@ -5268,7 +5268,7 @@
  },
  {
    "ID": "Wild_Target_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Wild Target",
    "Year": 2010,
@@ -5291,7 +5291,7 @@
  },
  {
    "ID": "Get_Out_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Get Out",
    "Year": 2017,
@@ -5314,7 +5314,7 @@
  },
  {
    "ID": "Us_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Us",
    "Year": 2019,
@@ -5337,7 +5337,7 @@
  },
  {
    "ID": "Kong_Skull_Island_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Kong: Skull Island",
    "Year": 2017,
@@ -5360,7 +5360,7 @@
  },
  {
    "ID": "Oblivion_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Oblivion",
    "Year": 2013,
@@ -5383,7 +5383,7 @@
  },
  {
    "ID": "At_Eternitys_Gate_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "At Eternity's Gate",
    "Year": 2018,
@@ -5406,7 +5406,7 @@
  },
  {
    "ID": "Anatomy_Of_A_Fall_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Anatomy of a Fall",
    "Year": 2023,
@@ -5429,7 +5429,7 @@
  },
  {
    "ID": "Zero_Dark_Thirty_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Zero Dark Thirty",
    "Year": 2012,
@@ -5452,7 +5452,7 @@
  },
  {
    "ID": "The_Edge_of_Seventeen_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Edge of Seventeen",
    "Year": 2016,
@@ -5475,7 +5475,7 @@
  },
  {
    "ID": "Murder_on_the_Orient_Express_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Murder on the Orient Express (2017)",
    "Year": 2017,
@@ -5498,7 +5498,7 @@
  },
  {
    "ID": "A_Hauntin_In_Venice_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "A Haunting in Venice",
    "Year": 2023,
@@ -5521,7 +5521,7 @@
  },
  {
    "ID": "The_Last_King_of_Scotland_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Last King of Scotland",
    "Year": 2007,
@@ -5544,7 +5544,7 @@
  },
  {
    "ID": "The_Mauritanian_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Mauritanian",
    "Year": 2021,
@@ -5567,7 +5567,7 @@
  },
  {
    "ID": "Waking_Ned_Devine_1998",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Waking Ned Devine",
    "Year": 1998,
@@ -5590,7 +5590,7 @@
  },
  {
    "ID": "Minions_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Minions",
    "Year": 2015,
@@ -5613,7 +5613,7 @@
  },
  {
    "ID": "The_Nutcracker_and_the_Four_Realms_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Nutcracker and the Four Realms",
    "Year": 2018,
@@ -5636,7 +5636,7 @@
  },
  {
    "ID": "Toy_Story_3_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Toy Story 3",
    "Year": 2010,
@@ -5659,7 +5659,7 @@
  },
  {
    "ID": "Room_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Room",
    "Year": 2015,
@@ -5682,7 +5682,7 @@
  },
  {
    "ID": "The_Kids_Are_Alright_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Kids Are Alright",
    "Year": 2010,
@@ -5705,7 +5705,7 @@
  },
  {
    "ID": "Hustlers_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Hustlers",
    "Year": 2019,
@@ -5728,7 +5728,7 @@
  },
  {
    "ID": "The_Farewell_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Farewell",
    "Year": 2019,
@@ -5751,7 +5751,7 @@
  },
  {
    "ID": "Unbreakable_2000",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Unbreakable",
    "Year": 2000,
@@ -5774,7 +5774,7 @@
  },
  {
    "ID": "Split_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Split",
    "Year": 2016,
@@ -5797,7 +5797,7 @@
  },
  {
    "ID": "Glass_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Glass",
    "Year": 2019,
@@ -5820,7 +5820,7 @@
  },
  {
    "ID": "The_End_We_Start_From_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The End We Start From",
    "Year": 2023,
@@ -5843,7 +5843,7 @@
  },
  {
    "ID": "Quantum_of_Solace_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Quantum of Solace",
    "Year": 2008,
@@ -5866,7 +5866,7 @@
  },
  {
    "ID": "World_War_Z_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "World War Z",
    "Year": 2013,
@@ -5889,7 +5889,7 @@
  },
  {
    "ID": "Christopher_Robin_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Christopher Robin",
    "Year": 2018,
@@ -5912,7 +5912,7 @@
  },
  {
    "ID": "Help_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Help",
    "Year": 2021,
@@ -5935,7 +5935,7 @@
  },
  {
    "ID": "The_Amazing_SpiderMan_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Amazing Spider-Man",
    "Year": 2012,
@@ -5958,7 +5958,7 @@
  },
  {
    "ID": "The_Amazing_SpiderMan_2_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Amazing Spider-Man 2",
    "Year": 2014,
@@ -5981,7 +5981,7 @@
  },
  {
    "ID": "England_Is_Mine_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "England Is Mine",
    "Year": 2017,
@@ -6004,7 +6004,7 @@
  },
  {
    "ID": "Casino_Royale_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Casino Royale",
    "Year": 2006,
@@ -6027,7 +6027,7 @@
  },
  {
    "ID": "The_Banshees_Of_Inisherin_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Banshees of Inisherin",
    "Year": 2022,
@@ -6050,7 +6050,7 @@
  },
  {
    "ID": "Shutter_Island_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Shutter Island",
    "Year": 2010,
@@ -6073,7 +6073,7 @@
  },
  {
    "ID": "My_Favorite_Cake_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "My Favorite Cake",
    "Year": 2024,
@@ -6096,7 +6096,7 @@
  },
  {
    "ID": "War_for_the_Planet_of_the_Apes_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "War for the Planet of the Apes",
    "Year": 2017,
@@ -6119,7 +6119,7 @@
  },
  {
    "ID": "XMen_First_Class_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men: First Class",
    "Year": 2011,
@@ -6142,7 +6142,7 @@
  },
  {
    "ID": "Kingsman_The_Secret_Service_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Kingsman: The Secret Service",
    "Year": 2014,
@@ -6165,7 +6165,7 @@
  },
  {
    "ID": "Kingsman_The_Golden_Circle_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Kingsman: The Golden Circle",
    "Year": 2017,
@@ -6188,7 +6188,7 @@
  },
  {
    "ID": "KickAss_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Kick-Ass",
    "Year": 2010,
@@ -6211,7 +6211,7 @@
  },
  {
    "ID": "Hacksaw_Ridge_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Hacksaw Ridge",
    "Year": 2016,
@@ -6234,7 +6234,7 @@
  },
  {
    "ID": "Bean_1997",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bean",
    "Year": 1997,
@@ -6257,7 +6257,7 @@
  },
  {
    "ID": "Willy_Wonka_and_The_Chocolate_Factory_1971",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Willy Wonka & the Chocolate Factory",
    "Year": 1971,
@@ -6280,7 +6280,7 @@
  },
  {
    "ID": "The_Greatest_Showman_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Greatest Showman",
    "Year": 2017,
@@ -6303,7 +6303,7 @@
  },
  {
    "ID": "Collateral_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Collateral",
    "Year": 2004,
@@ -6326,7 +6326,7 @@
  },
  {
    "ID": "Winchester_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Winchester",
    "Year": 2018,
@@ -6349,7 +6349,7 @@
  },
  {
    "ID": "Hundreds_Of_Beavers_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Hundreds of Beavers",
    "Year": 2022,
@@ -6372,7 +6372,7 @@
  },
  {
    "ID": "Trolls_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Trolls",
    "Year": 2016,
@@ -6395,7 +6395,7 @@
  },
  {
    "ID": "Harry_Potter_and_the_Goblet_of_Fire_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Harry Potter and the Goblet of Fire",
    "Year": 2005,
@@ -6418,7 +6418,7 @@
  },
  {
    "ID": "One_Flew_Over_the_Cuckoos_Nest_1975",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "One Flew Over the Cuckoo's Nest",
    "Year": 1975,
@@ -6441,7 +6441,7 @@
  },
  {
    "ID": "The_Imitation_Game_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Imitation Game",
    "Year": 2014,
@@ -6464,7 +6464,7 @@
  },
  {
    "ID": "Passengers_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Passengers",
    "Year": 2016,
@@ -6487,7 +6487,7 @@
  },
  {
    "ID": "The_Holiday_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Holiday",
    "Year": 2006,
@@ -6510,7 +6510,7 @@
  },
  {
    "ID": "The_Intern_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Intern",
    "Year": 2015,
@@ -6533,7 +6533,7 @@
  },
  {
    "ID": "Divergent_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Divergent",
    "Year": 2014,
@@ -6556,7 +6556,7 @@
  },
  {
    "ID": "Rebel_Without_A_Cause_1955",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Rebel Without a Cause",
    "Year": 1955,
@@ -6579,7 +6579,7 @@
  },
  {
    "ID": "My_Sisters_Keeper_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "My Sister's Keeper",
    "Year": 2009,
@@ -6602,7 +6602,7 @@
  },
  {
    "ID": "Wild_Child_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Wild Child",
    "Year": 2008,
@@ -6625,7 +6625,7 @@
  },
  {
    "ID": "Drive_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Drive",
    "Year": 2011,
@@ -6648,7 +6648,7 @@
  },
  {
    "ID": "The_Zookeepers_Wife_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Zookeeper's Wife",
    "Year": 2017,
@@ -6671,7 +6671,7 @@
  },
  {
    "ID": "Late_Night_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Late Night",
    "Year": 2019,
@@ -6694,7 +6694,7 @@
  },
  {
    "ID": "The_High_Note_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The High Note",
    "Year": 2020,
@@ -6717,7 +6717,7 @@
  },
  {
    "ID": "Ticket_to_Paradise_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ticket to Paradise",
    "Year": 2022,
@@ -6740,7 +6740,7 @@
  },
  {
    "ID": "Johnny_English_Reborn_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Johnny English Reborn",
    "Year": 2011,
@@ -6763,7 +6763,7 @@
  },
  {
    "ID": "Booksmart_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Booksmart",
    "Year": 2019,
@@ -6786,7 +6786,7 @@
  },
  {
    "ID": "Citizen_Kane_1941",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Citizen Kane",
    "Year": 1941,
@@ -6809,7 +6809,7 @@
  },
  {
    "ID": "Robot_Dreams_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Robot Dreams",
    "Year": 2023,
@@ -6832,7 +6832,7 @@
  },
  {
    "ID": "Jackie_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jackie",
    "Year": 2016,
@@ -6855,7 +6855,7 @@
  },
  {
    "ID": "Spencer_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spencer",
    "Year": 2021,
@@ -6878,7 +6878,7 @@
  },
  {
    "ID": "Wonder_Woman_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Wonder Woman",
    "Year": 2017,
@@ -6901,7 +6901,7 @@
  },
  {
    "ID": "Wonder_Woman_1984_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Wonder Woman 1984",
    "Year": 2020,
@@ -6924,7 +6924,7 @@
  },
  {
    "ID": "A_Simple_Favor_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "A Simple Favor",
    "Year": 2018,
@@ -6947,7 +6947,7 @@
  },
  {
    "ID": "Last_Christmas_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Last Christmas",
    "Year": 2019,
@@ -6970,7 +6970,7 @@
  },
  {
    "ID": "Monsters_Inc_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Monsters, Inc.",
    "Year": 2001,
@@ -6993,7 +6993,7 @@
  },
  {
    "ID": "Inside_Out_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Inside Out",
    "Year": 2015,
@@ -7016,7 +7016,7 @@
  },
  {
    "ID": "Soul_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Soul",
    "Year": 2020,
@@ -7039,7 +7039,7 @@
  },
  {
    "ID": "Johnny_English_2003",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Johnny English",
    "Year": 2003,
@@ -7062,7 +7062,7 @@
  },
  {
    "ID": "The_Lord_Of_The_Rings_The_Fellowship_Of_The_Ring_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Lord of the Rings: The Fellowship of the Ring",
    "Year": 2001,
@@ -7085,7 +7085,7 @@
  },
  {
    "ID": "The_Lord_Of_The_Rings_The_Two_Towers_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Lord of the Rings: The Two Towers",
    "Year": 2002,
@@ -7108,7 +7108,7 @@
  },
  {
    "ID": "The_Lord_Of_The_Rings_The_Return_Of_The_King_2003",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Lord of the Rings: The Return of the King",
    "Year": 2003,
@@ -7131,7 +7131,7 @@
  },
  {
    "ID": "The_Hobbit_The_Desolation_Of_Smaug_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hobbit: The Desolation of Smaug",
    "Year": 2013,
@@ -7154,7 +7154,7 @@
  },
  {
    "ID": "Elemental_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Elemental",
    "Year": 2023,
@@ -7177,7 +7177,7 @@
  },
  {
    "ID": "Freeheld_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Freeheld",
    "Year": 2015,
@@ -7200,7 +7200,7 @@
  },
  {
    "ID": "Dead_Poets_Society_1989",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Dead Poets Society",
    "Year": 1989,
@@ -7223,7 +7223,7 @@
  },
  {
    "ID": "The_Truman_Show_1998",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Truman Show",
    "Year": 1998,
@@ -7246,7 +7246,7 @@
  },
  {
    "ID": "Questce_quon_a_fait_au_Bon_Dieu_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Qu'est-ce qu'on a fait au Bon Dieu?",
    "Year": 2014,
@@ -7269,7 +7269,7 @@
  },
  {
    "ID": "The_Quiet_American_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Quiet American",
    "Year": 2002,
@@ -7292,7 +7292,7 @@
  },
  {
    "ID": "Mamma_Mia_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mamma Mia!",
    "Year": 2008,
@@ -7315,7 +7315,7 @@
  },
  {
    "ID": "The_Iron_Lady_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Iron Lady",
    "Year": 2017,
@@ -7338,7 +7338,7 @@
  },
  {
    "ID": "Call_Jane_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Call Jane",
    "Year": 2022,
@@ -7361,7 +7361,7 @@
  },
  {
    "ID": "Despicable_Me_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Despicable Me",
    "Year": 2010,
@@ -7384,7 +7384,7 @@
  },
  {
    "ID": "Despicable_Me_2_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Despicable Me 2",
    "Year": 2013,
@@ -7407,7 +7407,7 @@
  },
  {
    "ID": "Django_Unchained_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Django Unchained",
    "Year": 2012,
@@ -7430,7 +7430,7 @@
  },
  {
    "ID": "The_Hateful_Eight_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Hateful Eight",
    "Year": 2015,
@@ -7453,7 +7453,7 @@
  },
  {
    "ID": "Sometimes_I_Think_About_Dying_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sometimes I Think About Dying",
    "Year": 2023,
@@ -7476,7 +7476,7 @@
  },
  {
    "ID": "The_Man_In_The_Iron_Mask_1998",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Man in the Iron Mask",
    "Year": 1998,
@@ -7499,7 +7499,7 @@
  },
  {
    "ID": "Mr_Monks_Last_Case_A_Monk_Movie_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Mr. Monk's Last Case: A Monk Movie",
    "Year": 2023,
@@ -7522,7 +7522,7 @@
  },
  {
    "ID": "Were_the_Millers_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "We're the Millers",
    "Year": 2013,
@@ -7545,7 +7545,7 @@
  },
  {
    "ID": "King_Richard_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "King Richard",
    "Year": 2021,
@@ -7568,7 +7568,7 @@
  },
  {
    "ID": "Asterix_der_Gallier_1967",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Asterix der Gallier",
    "Year": 1967,
@@ -7591,7 +7591,7 @@
  },
  {
    "ID": "Looper_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Looper",
    "Year": 2012,
@@ -7614,7 +7614,7 @@
  },
  {
    "ID": "Star_Wars_Episode_VIII_The_Last_Jedi_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Star Wars: Episode VIII - The Last Jedi",
    "Year": 2017,
@@ -7637,7 +7637,7 @@
  },
  {
    "ID": "Knives_Out_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Knives Out",
    "Year": 2019,
@@ -7660,7 +7660,7 @@
  },
  {
    "ID": "The_Goonies_1985",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Goonies",
    "Year": 1985,
@@ -7683,7 +7683,7 @@
  },
  {
    "ID": "Still_Alice_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Still Alice",
    "Year": 2014,
@@ -7706,7 +7706,7 @@
  },
  {
    "ID": "Before_Sunrise_1995",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Before Sunrise",
    "Year": 1995,
@@ -7729,7 +7729,7 @@
  },
  {
    "ID": "Before_Sunset_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Before Sunset",
    "Year": 2004,
@@ -7752,7 +7752,7 @@
  },
  {
    "ID": "Whered_you_go_Bernadette_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Where'd you go, Bernadette",
    "Year": 2019,
@@ -7775,7 +7775,7 @@
  },
  {
    "ID": "Blade_Runner_1982",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Blade Runner",
    "Year": 1982,
@@ -7798,7 +7798,7 @@
  },
  {
    "ID": "Exodus_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Exodus",
    "Year": 2014,
@@ -7821,7 +7821,7 @@
  },
  {
    "ID": "The_Martian_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Martian",
    "Year": 2015,
@@ -7844,7 +7844,7 @@
  },
  {
    "ID": "House_of_Gucci_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "House of Gucci",
    "Year": 2021,
@@ -7867,7 +7867,7 @@
  },
  {
    "ID": "The_Last_Duel_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Last Duel",
    "Year": 2021,
@@ -7890,7 +7890,7 @@
  },
  {
    "ID": "Gladiator_2000",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Gladiator",
    "Year": 2000,
@@ -7913,7 +7913,7 @@
  },
  {
    "ID": "Tomb_Raider_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Tomb Raider",
    "Year": 2018,
@@ -7936,7 +7936,7 @@
  },
  {
    "ID": "Shark_Tale_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Shark Tale",
    "Year": 2004,
@@ -7959,7 +7959,7 @@
  },
  {
    "ID": "Chicago_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Chicago",
    "Year": 2002,
@@ -7982,7 +7982,7 @@
  },
  {
    "ID": "Memoirs_Of_A_Geisha_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Memoirs of a Geisha",
    "Year": 2005,
@@ -8005,7 +8005,7 @@
  },
  {
    "ID": "Into_the_Woods_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Into the Woods",
    "Year": 2014,
@@ -8028,7 +8028,7 @@
  },
  {
    "ID": "Mary_Poppins_Returns_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mary Poppins Returns",
    "Year": 2018,
@@ -8051,7 +8051,7 @@
  },
  {
    "ID": "Gosford_Park_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Gosford Park",
    "Year": 2001,
@@ -8074,7 +8074,7 @@
  },
  {
    "ID": "They_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "They",
    "Year": 2001,
@@ -8097,7 +8097,7 @@
  },
  {
    "ID": "Trouble_with_the_Curve_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Trouble with the Curve",
    "Year": 2012,
@@ -8120,7 +8120,7 @@
  },
  {
    "ID": "Killers_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Killers",
    "Year": 2010,
@@ -8143,7 +8143,7 @@
  },
  {
    "ID": "Murder_by_Death_1976",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Murder by Death",
    "Year": 1976,
@@ -8166,7 +8166,7 @@
  },
  {
    "ID": "Insurgent_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Insurgent",
    "Year": 2015,
@@ -8189,7 +8189,7 @@
  },
  {
    "ID": "Allegiant_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Allegiant",
    "Year": 2016,
@@ -8212,7 +8212,7 @@
  },
  {
    "ID": "Mary_Poppins_1964",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mary Poppins",
    "Year": 1964,
@@ -8235,7 +8235,7 @@
  },
  {
    "ID": "Maleficent_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Maleficent",
    "Year": 2014,
@@ -8258,7 +8258,7 @@
  },
  {
    "ID": "The_Sound_of_Music_1965",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Sound of Music",
    "Year": 1965,
@@ -8281,7 +8281,7 @@
  },
  {
    "ID": "The_Polar_Express_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Polar Express",
    "Year": 2004,
@@ -8304,7 +8304,7 @@
  },
  {
    "ID": "A_Beautiful_Mind_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "A Beautiful Mind",
    "Year": 2001,
@@ -8327,7 +8327,7 @@
  },
  {
    "ID": "The_Da_Vinci_Code_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Da Vinci Code",
    "Year": 2006,
@@ -8350,7 +8350,7 @@
  },
  {
    "ID": "Angels_and_Demons_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Angels & Demons",
    "Year": 2009,
@@ -8373,7 +8373,7 @@
  },
  {
    "ID": "Zombieland_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Zombieland",
    "Year": 2009,
@@ -8396,7 +8396,7 @@
  },
  {
    "ID": "Venom_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Venom",
    "Year": 2018,
@@ -8419,7 +8419,7 @@
  },
  {
    "ID": "Zombieland_Double_Tap_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Zombieland: Double Tap",
    "Year": 2019,
@@ -8442,7 +8442,7 @@
  },
  {
    "ID": "Snow_White_And_The_Huntsman_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Snow White and the Huntsman",
    "Year": 2012,
@@ -8465,7 +8465,7 @@
  },
  {
    "ID": "Rise_of_the_Planet_of_the_Apes_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Rise of the Planet of the Apes",
    "Year": 2011,
@@ -8488,7 +8488,7 @@
  },
  {
    "ID": "Black_Panther_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Black Panther",
    "Year": 2018,
@@ -8511,7 +8511,7 @@
  },
  {
    "ID": "Sinners_2025",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Sinners",
    "Year": 2025,
@@ -8534,7 +8534,7 @@
  },
  {
    "ID": "Skyfall_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Skyfall",
    "Year": 2012,
@@ -8557,7 +8557,7 @@
  },
  {
    "ID": "Spectre_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spectre",
    "Year": 2015,
@@ -8580,7 +8580,7 @@
  },
  {
    "ID": "1917_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "1917",
    "Year": 2019,
@@ -8603,7 +8603,7 @@
  },
  {
    "ID": "SpiderMan_2002",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spider-Man",
    "Year": 2002,
@@ -8626,7 +8626,7 @@
  },
  {
    "ID": "SpiderMan_2_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spider-Man 2",
    "Year": 2004,
@@ -8649,7 +8649,7 @@
  },
  {
    "ID": "SpiderMan_3_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Spider-Man 3",
    "Year": 2007,
@@ -8672,7 +8672,7 @@
  },
  {
    "ID": "No_Reservations_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "No Reservations",
    "Year": 2007,
@@ -8695,7 +8695,7 @@
  },
  {
    "ID": "Step_Up_Revolution_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Step Up Revolution",
    "Year": 2012,
@@ -8718,7 +8718,7 @@
  },
  {
    "ID": "Instant_Family_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Instant Family",
    "Year": 2018,
@@ -8741,7 +8741,7 @@
  },
  {
    "ID": "Into_the_Wild_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Into the Wild",
    "Year": 2007,
@@ -8764,7 +8764,7 @@
  },
  {
    "ID": "Baywatch_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Baywatch",
    "Year": 2017,
@@ -8787,7 +8787,7 @@
  },
  {
    "ID": "Judas_and_the_Black_Messiah_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Judas and the Black Messiah",
    "Year": 2021,
@@ -8810,7 +8810,7 @@
  },
  {
    "ID": "Bridget_Jones_Baby_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bridget Jones' Baby",
    "Year": 2016,
@@ -8833,7 +8833,7 @@
  },
  {
    "ID": "Bridget_Joness_Diary_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bridget Jones's Diary",
    "Year": 2001,
@@ -8856,7 +8856,7 @@
  },
  {
    "ID": "Night_at_the_Museum_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Night at the Museum",
    "Year": 2006,
@@ -8879,7 +8879,7 @@
  },
  {
    "ID": "Night_at_the_Museum_Battle_of_the_Smithsonian_2009",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Night at the Museum: Battle of the Smithsonian",
    "Year": 2009,
@@ -8902,7 +8902,7 @@
  },
  {
    "ID": "Free_Guy_2021",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Free Guy",
    "Year": 2021,
@@ -8925,7 +8925,7 @@
  },
  {
    "ID": "Murder_on_the_Orient_Express_1974",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay, DVD",
    "Title": "Murder on the Orient Express",
    "Year": 1974,
@@ -8948,7 +8948,7 @@
  },
  {
    "ID": "Sherlock_Holmes_and_the_Case_of_the_Silk_Stockings_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Sherlock Holmes and the Case of the Silk Stockings",
    "Year": 2004,
@@ -8971,7 +8971,7 @@
  },
  {
    "ID": "Goodbye_Christopher_Robin_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Goodbye Christopher Robin",
    "Year": 2017,
@@ -8994,7 +8994,7 @@
  },
  {
    "ID": "Bee_Movie_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bee Movie",
    "Year": 2007,
@@ -9017,7 +9017,7 @@
  },
  {
    "ID": "XMen_Dark_Pheonix_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "X-Men: Dark Pheonix",
    "Year": 2019,
@@ -9040,7 +9040,7 @@
  },
  {
    "ID": "The_355_2022",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The 355",
    "Year": 2022,
@@ -9063,7 +9063,7 @@
  },
  {
    "ID": "Lost_in_Translation_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Lost in Translation",
    "Year": 2004,
@@ -9086,7 +9086,7 @@
  },
  {
    "ID": "Der_Vorname_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Der Vorname",
    "Year": 2018,
@@ -9109,7 +9109,7 @@
  },
  {
    "ID": "BlacKkKlansman_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "BlacKkKlansman",
    "Year": 2018,
@@ -9132,7 +9132,7 @@
  },
  {
    "ID": "Singin_in_the_Rain_1952",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Singin' in the Rain",
    "Year": 1952,
@@ -9155,7 +9155,7 @@
  },
  {
    "ID": "Lolita_1962",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Lolita",
    "Year": 1962,
@@ -9178,7 +9178,7 @@
  },
  {
    "ID": "2001_A_Space_Odyssey_1968",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "2001: A Space Odyssey",
    "Year": 1968,
@@ -9201,7 +9201,7 @@
  },
  {
    "ID": "A_Clockword_Orange_1971",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "A Clockwork Orange",
    "Year": 1971,
@@ -9224,7 +9224,7 @@
  },
  {
    "ID": "Barry_Lyndon_1975",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Barry Lyndon",
    "Year": 1975,
@@ -9247,7 +9247,7 @@
  },
  {
    "ID": "The_Shining_1980",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Shining",
    "Year": 1980,
@@ -9270,7 +9270,7 @@
  },
  {
    "ID": "Full_Metal_Jacket_1987",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Full Metal Jacket",
    "Year": 1987,
@@ -9293,7 +9293,7 @@
  },
  {
    "ID": "Eyes_Wide_Shut_1999",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Eyes Wide Shut",
    "Year": 1999,
@@ -9316,7 +9316,7 @@
  },
  {
    "ID": "The_Reader_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Reader",
    "Year": 2008,
@@ -9339,7 +9339,7 @@
  },
  {
    "ID": "Florence_Foster_Jenkins_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Florence Foster Jenkins",
    "Year": 2016,
@@ -9362,7 +9362,7 @@
  },
  {
    "ID": "The_SpongeBob_SquarePants_Movie_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The SpongeBob SquarePants Movie",
    "Year": 2004,
@@ -9385,7 +9385,7 @@
  },
  {
    "ID": "Oceans_Eleven_2001",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ocean's Eleven",
    "Year": 2001,
@@ -9408,7 +9408,7 @@
  },
  {
    "ID": "Oceans_Twelve_2004",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ocean's Twelve",
    "Year": 2004,
@@ -9431,7 +9431,7 @@
  },
  {
    "ID": "Oceans_Thirteen_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ocean's Thirteen",
    "Year": 2007,
@@ -9454,7 +9454,7 @@
  },
  {
    "ID": "The_Mummy_1999",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Mummy",
    "Year": 1999,
@@ -9477,7 +9477,7 @@
  },
  {
    "ID": "Mr_Beans_Holiday_2007",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Mr. Bean's Holiday",
    "Year": 2007,
@@ -9500,7 +9500,7 @@
  },
  {
    "ID": "Widows_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Widows",
    "Year": 2018,
@@ -9523,7 +9523,7 @@
  },
  {
    "ID": "Duel_1971",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Duel",
    "Year": 1971,
@@ -9546,7 +9546,7 @@
  },
  {
    "ID": "Raiders_of_the_Lost_Ark_1981",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Raiders of the Lost Ark",
    "Year": 1981,
@@ -9569,7 +9569,7 @@
  },
  {
    "ID": "Indiana_Jones_and_the_Temple_of_Doom_1984",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Indiana Jones and the Temple of Doom",
    "Year": 1984,
@@ -9592,7 +9592,7 @@
  },
  {
    "ID": "Indiana_Jones_and_the_Last_Crucade_1989",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Indiana Jones and the Last Crucade",
    "Year": 1989,
@@ -9615,7 +9615,7 @@
  },
  {
    "ID": "Jurassic_Park_1993",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jurassic Park",
    "Year": 1993,
@@ -9638,7 +9638,7 @@
  },
  {
    "ID": "The_Lost_World_Jurassic_Park_1997",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Lost World: Jurassic Park",
    "Year": 1997,
@@ -9661,7 +9661,7 @@
  },
  {
    "ID": "Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull_2008",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Indiana Jones and the Kingdom of the Crystal Skull",
    "Year": 2008,
@@ -9684,7 +9684,7 @@
  },
  {
    "ID": "Ready_Player_One_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Ready Player One",
    "Year": 2018,
@@ -9707,7 +9707,7 @@
  },
  {
    "ID": "Thor_Ragnarok_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Thor: Ragnarok",
    "Year": 2017,
@@ -9730,7 +9730,7 @@
  },
  {
    "ID": "Jojo_Rabbit_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Jojo Rabbit",
    "Year": 2019,
@@ -9753,7 +9753,7 @@
  },
  {
    "ID": "The_Help_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Help",
    "Year": 2011,
@@ -9776,7 +9776,7 @@
  },
  {
    "ID": "Ma_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Ma",
    "Year": 2019,
@@ -9799,7 +9799,7 @@
  },
  {
    "ID": "Wind_River_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Wind River",
    "Year": 2017,
@@ -9822,7 +9822,7 @@
  },
  {
    "ID": "Beneath_the_Planet_of_the_Apes_1970",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Beneath the Planet of the Apes",
    "Year": 1970,
@@ -9845,7 +9845,7 @@
  },
  {
    "ID": "Wicked_Little_Letters_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Wicked Little Letters",
    "Year": 2023,
@@ -9868,7 +9868,7 @@
  },
  {
    "ID": "Hidden_Figures_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Hidden Figures",
    "Year": 2016,
@@ -9891,7 +9891,7 @@
  },
  {
    "ID": "Diary_of_a_Wimpy_Kid_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Diary of a Wimpy Kid",
    "Year": 2010,
@@ -9914,7 +9914,7 @@
  },
  {
    "ID": "Percy_Jackson_Sea_of_Monsters_2013",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Percy Jackson: Sea of Monsters",
    "Year": 2013,
@@ -9937,7 +9937,7 @@
  },
  {
    "ID": "Beetlejuice_1988",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Beetlejuice",
    "Year": 1988,
@@ -9960,7 +9960,7 @@
  },
  {
    "ID": "Charlie_and_the_Chocolate_Factory_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Charlie and the Chocolate Factory",
    "Year": 2005,
@@ -9983,7 +9983,7 @@
  },
  {
    "ID": "Beetlejuice_Beetlejuice_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Beetlejuice Beetlejuice",
    "Year": 2024,
@@ -10006,7 +10006,7 @@
  },
  {
    "ID": "Fantastic_Four_2005",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Fantastic Four",
    "Year": 2005,
@@ -10029,7 +10029,7 @@
  },
  {
    "ID": "Carol_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Carol",
    "Year": 2015,
@@ -10052,7 +10052,7 @@
  },
  {
    "ID": "Joker_2019",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Joker",
    "Year": 2019,
@@ -10075,7 +10075,7 @@
  },
  {
    "ID": "Les_Miserables_2012",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Les Misérables",
    "Year": 2012,
@@ -10098,7 +10098,7 @@
  },
  {
    "ID": "Top_Gun_1986",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Top Gun",
    "Year": 1986,
@@ -10121,7 +10121,7 @@
  },
  {
    "ID": "Bumblebee_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Bumblebee",
    "Year": 2018,
@@ -10144,7 +10144,7 @@
  },
  {
    "ID": "Step_Up_All_In_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Step Up All In",
    "Year": 2014,
@@ -10167,7 +10167,7 @@
  },
  {
    "ID": "Pitch_Perfect_3_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Pitch Perfect 3",
    "Year": 2017,
@@ -10190,7 +10190,7 @@
  },
  {
    "ID": "Terminal_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Terminal",
    "Year": 2018,
@@ -10213,7 +10213,7 @@
  },
  {
    "ID": "Trolls_World_Tour_2020",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Trolls World Tour",
    "Year": 2020,
@@ -10236,7 +10236,7 @@
  },
  {
    "ID": "Trolls_Band_Together_2023",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Trolls Band Together",
    "Year": 2023,
@@ -10259,7 +10259,7 @@
  },
  {
    "ID": "The_Grand_Budapest_Hotel_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Grand Budapest Hotel",
    "Year": 2014,
@@ -10282,7 +10282,7 @@
  },
  {
    "ID": "Isle_of_Dogs_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Isle of Dogs",
    "Year": 2018,
@@ -10305,7 +10305,7 @@
  },
  {
    "ID": "The_Maze_Runner_2014",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Maze Runner",
    "Year": 2014,
@@ -10328,7 +10328,7 @@
  },
  {
    "ID": "Maze_Runner_The_Scorch_Trials_2015",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Maze Runner: The Scorch Trials",
    "Year": 2015,
@@ -10351,7 +10351,7 @@
  },
  {
    "ID": "Easy_A_2010",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Easy A",
    "Year": 2010,
@@ -10374,7 +10374,7 @@
  },
  {
    "ID": "Peter_Rabbit_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Peter Rabbit",
    "Year": 2018,
@@ -10397,7 +10397,7 @@
  },
  {
    "ID": "Submergence_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Submergence",
    "Year": 2017,
@@ -10420,7 +10420,7 @@
  },
  {
    "ID": "Midnight_in_Paris_2011",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Midnight in Paris",
    "Year": 2011,
@@ -10443,7 +10443,7 @@
  },
  {
    "ID": "The_Favourite_2018",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "The Favourite",
    "Year": 2018,
@@ -10466,7 +10466,7 @@
  },
  {
    "ID": "Bugonia_2025",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Bugonia",
    "Year": 2025,
@@ -10478,18 +10478,18 @@
    "Sequels": "",
    "FranchiseComplete": "",
    "MissingParts": "",
-   "Runtime": null,
-   "Genre": "",
+   "Runtime": 118,
+   "Genre": "Drama, Comedy",
    "Summary": "",
-   "Writer": "",
-   "Music": "",
-   "Cinematography": "",
-   "CostumeDesign": "",
-   "Cast": ""
+   "Writer": "Will Tracy",
+   "Music": "Jerskin Fendrix",
+   "Cinematography": "Robbie Ryan",
+   "CostumeDesign": "Jennifer Johnson",
+   "Cast": "Emma Stone, Jesse Plemons, Aidan Delbis"
  },
  {
    "ID": "300_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "300",
    "Year": 2006,
@@ -10512,7 +10512,7 @@
  },
  {
    "ID": "Batman_v_Superman_Dawn_of_Justice_2016",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Batman v Superman: Dawn of Justice",
    "Year": 2016,
@@ -10535,7 +10535,7 @@
  },
  {
    "ID": "Justice_League_2017",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Justice League",
    "Year": 2017,
@@ -10558,7 +10558,7 @@
  },
  {
    "ID": "Blink_Twice_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Blink Twice",
    "Year": 2024,
@@ -10581,7 +10581,7 @@
  },
  {
    "ID": "Aladin_1404",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Aladin",
    "Year": 1404,
@@ -10604,7 +10604,7 @@
  },
  {
    "ID": "Superman_1978",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Superman",
    "Year": 1978,
@@ -10627,7 +10627,7 @@
  },
  {
    "ID": "Superman_II_1980",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Superman II",
    "Year": 1980,
@@ -10650,7 +10650,7 @@
  },
  {
    "ID": "Superman_III_1983",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Superman III",
    "Year": 1983,
@@ -10673,7 +10673,7 @@
  },
  {
    "ID": "Superman_IV_The_Quest_For_Peace_1987",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Superman IV: The Quest for Peace",
    "Year": 1987,
@@ -10696,7 +10696,7 @@
  },
  {
    "ID": "Superman_Returns_2006",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Superman Returns",
    "Year": 2006,
@@ -10719,7 +10719,7 @@
  },
  {
    "ID": "Socialization_Of_The_Bull_2000",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Socialization of the Bull",
    "Year": 2000,
@@ -10742,7 +10742,7 @@
  },
  {
    "ID": "Batman_1989",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Batman",
    "Year": 1989,
@@ -10765,7 +10765,7 @@
  },
  {
    "ID": "Batman_Returns_1992",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Batman Returns",
    "Year": 1992,
@@ -10788,7 +10788,7 @@
  },
  {
    "ID": "Batman_Forever_1995",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Batman Forever",
    "Year": 1995,
@@ -10811,7 +10811,7 @@
  },
  {
    "ID": "Batman_And_Robin_1997",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "DVD",
    "Title": "Batman & Robin",
    "Year": 1997,
@@ -10834,7 +10834,7 @@
  },
  {
    "ID": "The_Seed_Of_The_Sacred_Fig_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "The Seed of the Sacred Fig",
    "Year": 2024,
@@ -10857,7 +10857,7 @@
  },
  {
    "ID": "Paddington_In_Peru_2024",
-   "Type": "Movie",
+   "Type": "Film",
    "Medium": "BluRay",
    "Title": "Paddington in Peru",
    "Year": 2024,
