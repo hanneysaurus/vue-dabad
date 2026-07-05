@@ -1,12 +1,11 @@
 <template>
   <h1>Hanney's DABAD - DVD and BluRay Administrator</h1>
-  <h2>{{moviecount}} movies, {{seriescount}} seasons </h2>
+  <h2>{{filmcount}} films, {{seriescount}} seasons </h2>
   <div class="search-area">
     <input
-        id="search_input"
+        v-model="title"
         type="text"
         placeholder="search..."
-        @input="updateSearchQuery"
     />
     <button class="random-button" @click="getRandomMedia">random</button>
   </div>
@@ -22,35 +21,34 @@
       </div>
       <div class="advanced-search-filters">
         <p>Genre: </p>
-        <select name="genres" id="genres">
+        <select name="genres" v-model="genre">
           <option></option>
-          <option v-for="g in getGenres()" :value="{g}">{{ g }}</option>
+          <option v-for="g in genres" :value="g" :key="g">{{ g }}</option>
         </select>
-        <p>Type: </p>
-        <select>
+        <p>Medium: </p>
+        <select v-model="medium">
           <option></option>
           <option>DVD</option>
           <option>BluRay</option>
         </select>
         <div class="runtime-search">
           <p>Runtime: </p>
-          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="from"/>
-          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="to"/>
+          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="from" v-model="runtimeFrom"/>
+          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="to" v-model="runtimeTo"/>
         </div>
         <div class="watched">
-          <p>Watched</p>
-          <input type="checkbox">
+          <p>Show unwatched only</p>
+          <input type="checkbox" v-model="unwatched">
         </div>
         <div class="franchise">
-          <p>Franchise</p>
-          <input type="checkbox">
+          <p>Show franchise only</p>
+          <input type="checkbox" v-model="franchise">
         </div>
         <div class="cast-crew">
           <p>Cast & Crew</p>
           <input type="text" placeholder="cast and crew"/>
         </div>
       </div>
-      <button class="search-button" @submit="updateSearchQuery">search</button>
     </div>
   </div>
   <div class="database">
@@ -70,32 +68,46 @@ definePageMeta({
 });
 
 const data = database;
-const searchQuery = ref();
-const moviecount = computed(() => {
+const genres = computed(() => getGenres());
+const filmcount = computed(() => {
   return data.filter(media => {
-    return media.Type === "Movie";
+    return media.Type === "Film";
   }).length;
-})
+});
 const seriescount = computed(() => {
   return data.filter(media => {
     return media.Type === "Series";
   }).length;
-})
-
-const filteredData = computed(() => {
-  if (!searchQuery.value) {
-    return data;
-  }
-  return data.filter(media => {
-    const searchable = media.Title.toString().toLowerCase();
-    const query = searchQuery.value.toString().toLowerCase();
-    return searchable.includes(query);
-  });
 });
 
-const updateSearchQuery = (event) => {
-  searchQuery.value = event.target.value;
-};
+const title = ref("");
+const genre = ref("");
+const medium = ref("");
+const unwatched = ref(false);
+const franchise = ref(false);
+const runtimeFrom = ref();
+const runtimeTo = ref();
+
+const filteredData = computed(() => {
+  return data.filter(media => {
+    const mediaTitle = media.Title.toString().toLowerCase();
+    const mediaGenre = media.Genre;
+    const mediaMedium = media.Medium;
+    const mediaUnwatched = media.Watched === "NO";
+    const mediaFranchise = media.Franchise === "YES";
+    const mediaRuntime = Number(media.Runtime);
+
+    return (
+        mediaTitle.includes(title.value.toString().toLowerCase()) &&
+        (!medium.value || mediaMedium === medium.value) &&
+        (!genre.value || mediaGenre.includes(genre.value)) &&
+        (!unwatched.value || mediaUnwatched) &&
+        (!franchise.value || mediaFranchise) &&
+        (!runtimeFrom.value || mediaRuntime >= Number(runtimeFrom.value)) &&
+        (!runtimeTo.value || mediaRuntime <= Number(runtimeTo.value))
+    );
+  });
+});
 
 const showAdvancedSearch = ref(false);
 const toggleAdvancedSearch = () => {
@@ -185,6 +197,8 @@ const getRandomMedia = () => {
     .advanced-search-filters {
       display: flex;
       flex-direction: row;
+      flex-wrap: wrap;
+      gap: 20px;
       margin: 10px 0 0 15px;
 
       .runtime-search {
@@ -204,9 +218,9 @@ const getRandomMedia = () => {
 }
 
 .database {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
 }
 
 </style>
