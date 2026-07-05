@@ -1,5 +1,39 @@
 body {
     font-family: "Courier New", serif;
-    background: #b0042f;
-    margin: 50px;
+    margin: 0;
+    background: #C1121F;
+    color: #FDF0D5;
+
+    button {
+        height: inherit;
+        align-self: center;
+        font-family: inherit;
+        font-size: inherit;
+        color: #669BBC;
+        background: #003049;
+        cursor: pointer;
+        border: 3px solid #669BBC;
+
+        &:focus-visible,
+        &:hover {
+            background: #669BBC;
+            color: #003049;
+        }
+    }
+
+    a {
+        color: #FDF0D5;
+        font-size: 18px;
+    }
 }
+
+/* pallette
+https://coolors.co/palette/780000-c1121f-fdf0d5-003049-669bbc
+
+#780000 darkred
+#C1121F red
+#FDF0D5 beige
+#003049 darkblue
+#669BBC lightblue
+
+*/

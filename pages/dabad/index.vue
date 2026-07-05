@@ -1,6 +1,5 @@
 <template>
-  <h1>DVD and BluRay Administrator</h1>
-  <h2>{{filmcount}} films, {{seriescount}} seasons </h2>
+  <h2>{{ filmcount }} films, {{ seriescount }} seasons </h2>
   <div class="search-area">
     <input
         v-model="title"
@@ -39,8 +38,10 @@
         </select>
         <div class="runtime-search">
           <p>Runtime: </p>
-          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="from" v-model="runtimeFrom"/>
-          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="to" v-model="runtimeTo"/>
+          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="from"
+                 v-model="runtimeFrom"/>
+          <input type="number" maxlength="3" oninput="this.value=this.value.slice(0,3)" placeholder="to"
+                 v-model="runtimeTo"/>
         </div>
         <div class="additional-info">
           <p>Has additional Info</p>
@@ -169,22 +170,6 @@ const getRandomMedia = () => {
 
   .random-button {
     width: 100px;
-    height: inherit;
-    margin: 0 5px;
-    align-self: center;
-    font-family: inherit;
-    font-size: inherit;
-    color: grey;
-    background: white;
-    cursor: pointer;
-    border: 3px solid dimgrey;
-    border-bottom-left-radius: 10px;
-    border-top-right-radius: 10px;
-
-    &:hover {
-      background: gray;
-      color: white;
-    }
   }
 }
 
@@ -251,6 +236,7 @@ const getRandomMedia = () => {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
+  justify-content: center;
 }
 
 </style>
