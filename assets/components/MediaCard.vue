@@ -1,5 +1,5 @@
 <template>
-  <NuxtLink :to="`/database/${props.media.ID}`" @mouseenter="checkOverflow(props.index)">
+  <NuxtLink :to="`/dabad/${props.media.ID}`" @mouseenter="checkOverflow(props.index)">
     <div class="media-card">
       <div class="preview-container">
         <img :alt="`${getImageID(props.media.Title)}`" :src="`/images/${getImageID(props.media.Title)}`" loading="eager" class="preview"/>

@@ -1,5 +1,5 @@
 <template>
-  <NuxtLink :to="`/database/${props.media.ID}`">
+  <NuxtLink :to="`/dabad/${props.media.ID}`">
     <div class="medialistitem">
       <img :alt="`${props.media.Title}`" :src="`/images/${getImageID(props.media.Title)}`" class="preview"/>
       <p class="text">{{ props.media.Title }}</p>

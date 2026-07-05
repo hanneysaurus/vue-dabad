@@ -2,7 +2,7 @@
   <div>
     <header>
       <nav>
-        <NuxtLink class="back" to="/database">back</NuxtLink>
+        <NuxtLink class="back" :to="to">back</NuxtLink>
       </nav>
     </header>
 
@@ -12,6 +12,10 @@
   </div>
 </template>
 
+<script setup lang="ts">
+const route = useRoute();
+const to = computed(() => route.name === "dabad" ? "/" : "/dabad");
+</script>
 
 <style scoped>
 .back {
@@ -24,5 +28,3 @@
   padding: 0 5px;
 }
 </style>
-<script setup lang="ts">
-</script>

@@ -1,5 +1,5 @@
 <template>
-  <h1>Hanney's DABAD - DVD and BluRay Administrator</h1>
+  <h1>DVD and BluRay Administrator</h1>
   <h2>{{filmcount}} films, {{seriescount}} seasons </h2>
   <div class="search-area">
     <input
@@ -147,7 +147,7 @@ const toggleAdvancedSearch = () => {
 const getRandomMedia = () => {
   const randIndex = Math.floor(Math.random() * data.length);
   const randomID = data[randIndex].ID;
-  navigateTo('database/' + randomID);
+  navigateTo('dabad/' + randomID);
 }
 
 </script>
