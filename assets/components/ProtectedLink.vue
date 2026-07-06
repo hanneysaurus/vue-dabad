@@ -22,18 +22,32 @@ const props = defineProps({
   to: String
 });
 
+const authenticated = computed(() => document.cookie
+    .split("; ")
+    .find(row => row.startsWith("dabad-access="))
+    ?.split("=")[1]);
 const showModal = ref(false);
 const currentQuestion = ref(null);
 
 function openModal() {
-  currentQuestion.value = questions[Math.floor(Math.random() * questions.length)];
-  showModal.value = true;
+  if (!authenticated.value) {
+    currentQuestion.value = questions[Math.floor(Math.random() * questions.length)];
+    showModal.value = true;
+  } else {
+    closeModalAndReroute();
+  }
 }
 
-function grantAccess() {
+function closeModalAndReroute() {
   showModal.value = false;
   useRouter().push(props.to);
 }
+
+function grantAccess() {
+  document.cookie = "dabad-access=true; max-age=3600; path=/";
+  closeModalAndReroute();
+}
+
 </script>
 
 <style scoped>
